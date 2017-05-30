@@ -9,7 +9,7 @@ header: no
 
 widget1:
   title: "La memoria si fa carne"
-  url: '/getting-started/2014-07-10-la-memoria-si-fa-carne.md'
+  url: '/getting-started/la-memoria-si-fa-carne'
   image: arnolfini.jpg
   text: 'Le portrait des époux Arnolfini de Jan Van Eyck, qui date 1434 montre la condition d’un couple de mi-
 grantes toscanes qui habitait en Belgique. Bien évidement le couple appartenait a une classe sociale haute
