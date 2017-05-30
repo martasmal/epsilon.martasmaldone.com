@@ -1,8 +1,8 @@
 ---
 layout: video
 show_meta: false
-title: "Video Template"
-subheadline: "Templates"
+title: "Japan Project"
+subheadline: "Aa.Vv. production"
 teaser: "Ōsaka-eki"
 tags:
     - post format
@@ -20,9 +20,9 @@ iframe: "<iframe width='970' height='546' src='//https://vimeo.com/219274698' fr
 # thumbnailUrl – A URL pointing to the video thumbnail image file.
 #
 video:
-    embedURL: "https://www.youtube.com/embed/WoHxoz_0ykI"
-    contentURL: "https://www.youtube.com/watch?v=WoHxoz_0ykI"
-    thumbnailUrl: "http://img.youtube.com/vi/WoHxoz_0ykI/maxresdefault.jpg"
+    embedURL: "https://vimeo.com/219274698"
+    contentURL: "https://vimeo.com/219274698"
+    thumbnailUrl: "https://vimeo.com/219274698g"
 ---
 <!--more-->
 
