@@ -1,7 +1,7 @@
 - name: GitHub
-  url: http://github.com/MartaSmaldone
+  url: http://github.com/MartaSmal
   class: icon-github
-  title: Code und mehr...
+  title: Code and more ...
 
 #- name: YouTube
 # url: http://www.youtube.com/PhlowMedia
@@ -11,7 +11,7 @@
 - name: Twitter
   url: http://twitter.com/MartaSmaldone
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "ultimi twitt di MartaSmaldone"
 
 #- name: Mixcloud
 # url: http://www.mixcloud.com/phlow/
