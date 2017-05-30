@@ -22,7 +22,7 @@ iframe: "<iframe width='970' height='546' src='//https://vimeo.com/219274698' fr
 video:
     embedURL: "https://vimeo.com/219274698"
     contentURL: "https://vimeo.com/219274698"
-    thumbnailUrl: "https://vimeo.com/219274698g"
+    thumbnailUrl: "https://vimeo.com/219274698"
 ---
 <!--more-->
 

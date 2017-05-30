@@ -9,7 +9,7 @@ header: no
 
 widget1:
   title: "La memoria si fa carne"
-  url: '/getting-started/la-memoria-si-fa-carne'
+  url: '/design/la-memoria-si-fa-carne'
   image: arnolfini.jpg
   text: 'Le portrait des époux Arnolfini de Jan Van Eyck, qui date 1434 montre la condition d’un couple de mi-
 grantes toscanes qui habitait en Belgique. Bien évidement le couple appartenait a une classe sociale haute
@@ -38,7 +38,7 @@ L’action restera liée à la mémoire du lieu; elle sera soit une rupture soit
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
+  url: http://www.aavv.io/
   text: Go to Aa.Vv.io website ›
   style: alert
 permalink: /index.html
