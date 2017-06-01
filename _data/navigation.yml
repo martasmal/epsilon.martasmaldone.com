@@ -52,7 +52,7 @@
 
 - title: Documentation
   url: "/documentation/"
-  side: left
+  side: right
   dropdown:
   - title: "Changelog"
     url: "/changelog/"
