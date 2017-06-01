@@ -8,18 +8,20 @@ layout: frontpage
 header: no
 
 widget1:
-  title: "La memoria si fa carne"
-  url: '/design/la-memoria-si-fa-carne'
-  image: arnolfini.jpg
-  text: 'Le portrait des époux <em>Arnolfini de Jan Van Eyck</em>, qui date 1434 montre la condition d’un couple de migrantes toscanes qui habitait en Belgique. Bien évidement le couple appartenait a une classe sociale haute
-pour confier au peintre flamand leur portrait. Je reprend avec ironie cette œuvre comme une référence, comme pour créer une continuité.'
-widget2:
   title: "Osaka-eki"
   url: 'http://vimeo.com/219274698'
   text: '<em>Osaka-eki</em> is heavily customizable.<br/>1. Japan :)<br/>2. Japan&#39;Japan.<br/>3. video <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
   video: '<div class="flex-video widescreen vimeo">
   <iframe src="http://player.vimeo.com/video/219274698" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-</div>'
+  </div>'
+
+
+widget2:
+  title: "La memoria si fa carne"
+  url: '/design/la-memoria-si-fa-carne'
+  image: arnolfini.jpg
+  text: 'Le portrait des époux <em>Arnolfini de Jan Van Eyck</em>, qui date 1434 montre la condition d’un couple de migrantes toscanes qui habitait en Belgique. Bien évidement le couple appartenait a une classe sociale haute
+pour confier au peintre flamand leur portrait. Je reprend avec ironie cette œuvre comme une référence, comme pour créer une continuité.'
 
 widget3:
   title: "Time Capsule Josaphat"
