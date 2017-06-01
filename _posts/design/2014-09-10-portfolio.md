@@ -34,7 +34,7 @@ categories:
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}arnolfini.jpg" alt="">
-        <p>Website: <a href="http://www.psychotherapie-schriefer.de/">La memoria si fa carne</a></p>
+        <p><a href="http://www.psychotherapie-schriefer.de/">La memoria si fa carne</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
