@@ -17,7 +17,10 @@ widget2:
   title: "Osaka-eki"
   url: 'http://vimeo.com/219274698'
   text: '<em>Osaka-eki</em> is heavily customizable.<br/>1. Japan :)<br/>2. Japan&#39;Japan.<br/>3. video <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="/images/osaka_eki.jpg" width="302" height="182" alt=""/></a>'
+  video: '<div class="flex-video widescreen vimeo">
+  <iframe src="http://player.vimeo.com/video/219274698" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>'
+
 widget3:
   title: "Time Capsule Josaphat"
   url: 'http://blog.martasmaldone.eu/index.php/time-capsule-josaphat-bxl_-14-02-2015friche-josaphat/'
@@ -49,6 +52,3 @@ homepage: true
 
 
 
-<div class="flex-video widescreen vimeo">
-  <iframe src="http://player.vimeo.com/video/219274698" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-</div>
