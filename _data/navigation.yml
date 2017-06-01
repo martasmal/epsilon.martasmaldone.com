@@ -4,11 +4,11 @@
 
 - title: About
   url: "/about/"
-  side: left
+  side: right
 
 - title: "Works"
   url: "/works/"
-  side: left
+  side: right
   dropdown:
   - title: "Grid & Colors"
     url: "/design/grid/"
@@ -33,7 +33,7 @@
 
 - title: "Header Styles"
   url: "/headers/"
-  side: left
+  side: right
   dropdown:
   - title: "Header with Full-Width-Image"
     url: "/design/header-full-width-image/"
