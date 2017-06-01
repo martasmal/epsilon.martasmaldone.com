@@ -10,7 +10,7 @@ header: no
 widget1:
   title: "Osaka-eki"
   url: 'http://vimeo.com/219274698'
-  text: '<em>Osaka-eki</em> is heavily customizable.<br/>1. Japan :)<br/>2. Japan&#39;Japan.<br/>3. video <a href="http://vimeo.com/219274698/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  text: '<em>Osaka-eki</em> is heavily customizable.<br/>1. Japan :)<br/>2. Japan&#39;Japan.<br/>3. video <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://http://vimeo.com/219274698/images/osaka_eki-302x182.jpg" width="302" height="182" alt=""/></a>''
 
 
@@ -20,9 +20,6 @@ widget2:
   image: arnolfini.jpg
   text: 'Le portrait des époux <em>Arnolfini de Jan Van Eyck</em>, qui date 1434 montre la condition d’un couple de migrantes toscanes qui habitait en Belgique. Bien évidement le couple appartenait a une classe sociale haute
 pour confier au peintre flamand leur portrait. Je reprend avec ironie cette œuvre comme une référence, comme pour créer une continuité.'
-video:<div class="flex-video widescreen vimeo">
-  <iframe src="http://player.vimeo.com/video/93275523" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-</div>
 
 widget3:
   title: "Time Capsule Josaphat"
@@ -53,10 +50,5 @@ permalink: /index.html
 homepage: true
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://vimeo.com/93275523" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
+
 
