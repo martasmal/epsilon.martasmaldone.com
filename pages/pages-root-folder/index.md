@@ -10,7 +10,7 @@ header: no
 widget1:
   title: "Osaka-eki"
   url: 'http://vimeo.com/219274698'
-  text: '<em>Osaka-eki</em> is heavily customizable.<br/>1. Japan :)<br/>2. Japan&#39;Japan.<br/>3. video <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  text: '<em>Osaka-eki</em> is heavily customizable.<br/>1. Japan :)<br/>2. Japan&#39;Japan.<br/>3. video <a href="http://vimeo.com/219274698/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://http://vimeo.com/219274698/images/osaka_eki-302x182.jpg" width="302" height="182" alt=""/></a>''
 
 
