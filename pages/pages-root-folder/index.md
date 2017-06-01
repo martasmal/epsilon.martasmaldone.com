@@ -17,7 +17,7 @@ pour confier au peintre flamand leur portrait. Je reprend avec ironie cette œuv
 me pour créer une continuité.<em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget2:
   title: "Osaka-eki"
-  url: 'https://vimeo.com/219274698'
+  url: 'http://vimeo.com/219274698'
   text: '<em>Osaka-eki</em> is heavily customizable.<br/>1. Japan :)<br/>2. Japan&#39;Japan.<br/>3. video <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
   video: '<a href="#" data-reveal-id="videoModal"><img src="/images/osaka_eki.jpg" width="302" height="182" alt=""/></a>'
 widget3:
