@@ -2,12 +2,12 @@
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: About
+  url: "/about/"
   side: left
 
 - title: "Works"
-  url: "/design/"
+  url: "/works/"
   side: left
   dropdown:
   - title: "Grid & Colors"
@@ -24,8 +24,8 @@
     url: "/design/page-fullwidth/"
   - title: "Blog-Page"
     url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
+  - title: "Ōsaka-eki"
+    url: "/works/video/"
   - title: "Gallery"
     url: "/design/gallery/"
   - title: "Portfolio"
@@ -60,8 +60,8 @@
     url: "/roadmap/"
 
 - title: Blog
-  url: "/blog/"
-  side: left
+  url: "http://blog.martasmaldone.eu/"
+  side: right
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
