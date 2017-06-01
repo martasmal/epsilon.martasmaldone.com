@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3064bf95-ee83-40d8-8fab-85efeb3416d0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/05.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/design/2014-09-10-portfolio.md" afterPath="$PROJECT_DIR$/_posts/design/2014-09-10-portfolio.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/design.md" afterPath="$PROJECT_DIR$/pages/design.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/pages-root-folder/index.md" afterPath="$PROJECT_DIR$/pages/pages-root-folder/index.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -96,8 +89,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/design/2014-09-10-portfolio.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="630">
-                <caret line="35" column="37" lean-forward="false" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+              <first_editor relative-caret-position="378">
+                <caret line="36" column="92" lean-forward="false" selection-start-line="36" selection-start-column="92" selection-end-line="36" selection-end-column="92" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -657,7 +650,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496306051966</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="index.md change settings">
+      <created>1496306899013</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1496306899013</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1141,8 +1141,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/design/2014-09-10-portfolio.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="630">
-            <caret line="35" column="37" lean-forward="false" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+          <first_editor relative-caret-position="378">
+            <caret line="36" column="92" lean-forward="false" selection-start-line="36" selection-start-column="92" selection-end-line="36" selection-end-column="92" />
             <folding />
           </first_editor>
           <second_editor>

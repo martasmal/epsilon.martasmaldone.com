@@ -11,12 +11,12 @@ categories:
 <div class="row t60">
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}01.jpg" alt="">
-        <p> Website: Nixdorf Internatsberatung &amp; Schulberatung</p>
+        <p> Belgian Journal</p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}03.jpg" alt="">
-        <p>Website: <a href="http://jcorneille.de">Grafik Design Jeannette Corneille</a></p>
+        <p>Website: <a href="http://jcorneille.de">via Markelbach</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
@@ -24,17 +24,17 @@ categories:
 <div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}02.jpg" alt="">
-        <p>Website: <a href="http://stilwandel-koeln.de">Stilwandel-Koeln.de</a></p>
+        <p>Website: <a href="http://stilwandel-koeln.de">Etat de transit</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}05.jpg" alt="">
-        <p>Website: <a href="http://tarnkarppe.info">Tarnkappe.info</a></p>
+        <p>Website: <a href="http://tarnkarppe.info">essay Tacheles in Berlin</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}06.jpg" alt="">
-        <p>Website: <a href="http://www.psychotherapie-schriefer.de/">Praxis für psychologische Psychotherapie Simone Schriefer</a></p>
+        <img src="{{ site.urlimg }}arnolfini.jpg" alt="">
+        <p>Website: <a href="http://www.psychotherapie-schriefer.de/">La memoria si fa carne</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
