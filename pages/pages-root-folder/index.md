@@ -47,3 +47,8 @@ permalink: /index.html
 homepage: true
 ---
 
+
+
+<div class="flex-video widescreen vimeo">
+  <iframe src="http://player.vimeo.com/video/219274698" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
