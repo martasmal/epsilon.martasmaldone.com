@@ -26,7 +26,7 @@ pour confier au peintre flamand leur portrait. Je reprend avec ironie cette œuv
 widget3:
   title: "Time Capsule Josaphat"
   url: 'http://blog.martasmaldone.eu/index.php/time-capsule-josaphat-bxl_-14-02-2015friche-josaphat/'
-  image: download.png
+  image: 04.jpg
   text: '<em>Time capsule Josaphat</em> est une action, un happening, une mémoire, un lieu.
 Time Capsule Josaphat est une œuvre de sauvegarde collective de biens et d’informations, une trace pour le futur qui marque une connexion établie dans le présent.
 L’action restera liée à la mémoire du lieu; elle sera soit une rupture soit une initiation du lieu et dans le lieu. Une autre valeur à l’espace collectif. <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
