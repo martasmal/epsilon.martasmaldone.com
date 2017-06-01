@@ -31,8 +31,8 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: "Photo"
+  url: "/photo/"
   side: right
   dropdown:
   - title: "Header with Full-Width-Image"
