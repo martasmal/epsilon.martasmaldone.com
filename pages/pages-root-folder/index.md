@@ -20,7 +20,7 @@ widget2:
   video: '<a href="#" data-reveal-id="videoModal"><img src="/images/osaka_eki.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Time Capsule Josaphat"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: 'http://blog.martasmaldone.eu/index.php/time-capsule-josaphat-bxl_-14-02-2015friche-josaphat/'
   image: download.png
   text: '<em>Time capsule Josaphat</em> est une action, un happening, une mémoire, un lieu.
 Time Capsule Josaphat est une œuvre de sauvegarde collective de biens et d’informations, une trace pour le futur qui marque une connexion établie dans le présent.
