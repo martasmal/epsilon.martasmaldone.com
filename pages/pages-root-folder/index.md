@@ -11,10 +11,8 @@ widget1:
   title: "La memoria si fa carne"
   url: '/design/la-memoria-si-fa-carne'
   image: arnolfini.jpg
-  text: 'Le portrait des époux Arnolfini de Jan Van Eyck, qui date 1434 montre la condition d’un couple de mi-
-grantes toscanes qui habitait en Belgique. Bien évidement le couple appartenait a une classe sociale haute
-pour confier au peintre flamand leur portrait. Je reprend avec ironie cette œuvre comme une référence, com-
-me pour créer une continuité.<em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'Le portrait des époux <em>Arnolfini de Jan Van Eyck</em>, qui date 1434 montre la condition d’un couple de migrantes toscanes qui habitait en Belgique. Bien évidement le couple appartenait a une classe sociale haute
+pour confier au peintre flamand leur portrait. Je reprend avec ironie cette œuvre comme une référence, comme pour créer une continuité. offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget2:
   title: "Osaka-eki"
   url: 'http://vimeo.com/219274698'
