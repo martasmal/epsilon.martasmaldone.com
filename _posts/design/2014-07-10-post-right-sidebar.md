@@ -3,14 +3,14 @@ layout: page
 sidebar: right
 subheadline: Templates
 title:  "Page/Post Right Sidebar"
-teaser: "This is an example of page/post with a sidebar on the right."
+teaser: "esempio galleria etat de transit"
 breadcrumb: true
 tags:
     - post format
 categories:
     - design
 image:
-    thumb: gallery-example-2-thumb.jpg
+    thumb: 01.jpg
     title: gallery-example-2.jpg
     caption: Unsplash.com
     caption_url: http://unsplash.com
