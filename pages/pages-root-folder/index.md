@@ -9,9 +9,9 @@ header: no
 
 widget1:
   title: "Osaka-eki"
-  url: 'http://vimeo.com/219274698'
+  url: 'https://vimeo.com/219274698'
   text: '<em>Osaka-eki</em> is heavily customizable.<br/>1. Japan :)<br/>2. Japan&#39;Japan.<br/>3. video <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://http://vimeo.com/219274698/images/osaka_eki-302x182.jpg" width="302" height="182" alt=""/></a>''
+  video: '<a href="#" data-reveal-id="videoModal"><img src="http://vimeo.com/219274698/images/osaka_eki.jpg" width="302" height="182" alt=""/></a>''
 
 
 widget2:
@@ -50,5 +50,12 @@ permalink: /index.html
 homepage: true
 ---
 
+<div id="videoModal" class="reveal-modal large" data-reveal="">
+  <div class="flex-video widescreen vimeo" style="display: block;">
+    <>
+  </div>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
 
+<iframe src="https://player.vimeo.com/video/219274698" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
