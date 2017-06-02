@@ -11,10 +11,11 @@ widget1:
   title: "Osaka-eki"
   url: 'https://vimeo.com/219274698'
   text: '<em>Osaka-eki</em> is heavily customizable.<br/>1. Japan :)<br/>2. Japan&#39;Japan.<br/>3. video <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="/images/osaka_eki.jpg" width="302" height="182" alt=""/></a>''
+  video: '<a href="#" data-reveal-id="videoModal"><img src="osaka_eki.jpg" width="302" height="182" alt=""/></a>''
 widget2:
   title: "La memoria si fa carne"
   url: 'https://vimeo.com/93275523'
+  image: arnolfini.jpg
   text: 'Le portrait des époux <em>Arnolfini de Jan Van Eyck</em>, qui date 1434 montre la condition d’un couple de migrantes toscanes qui habitait en Belgique. Bien évidement le couple appartenait a une classe sociale haute
   pour confier au peintre flamand leur portrait. Je reprend avec ironie cette œuvre comme une référence, comme pour créer une continuité.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
@@ -50,10 +51,9 @@ homepage: true
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://vimeo.com/219274698" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
-
 
 
