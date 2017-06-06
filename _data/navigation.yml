@@ -2,10 +2,6 @@
   url: "/"
   side: left
 
-- title: About
-  url: "/about/"
-  side: right
-
 - title: "Works"
   url: "/works/"
   side: right
@@ -60,7 +56,7 @@
     url: "/roadmap/"
 
 - title: Blog
-  url: "http://blog.martasmaldone.eu/"
+  url: "blog"
   side: right
   dropdown:
   - title: "Blog Archive"
