@@ -7,6 +7,7 @@ categories:
     - works
 tags:
     - post format
+header: no
 image:
    thumb: "01.jpg"
 gallery:
