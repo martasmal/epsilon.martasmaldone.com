@@ -25,10 +25,10 @@
   url: "blog"
   side: right
   dropdown:
-  - title: "Blog-Page"
+  - title: "Blog"
     url: "/blog/"
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
   - title: "blog.martasmaldone.com"
     url: "/redirect-page/"
 
