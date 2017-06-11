@@ -8,7 +8,7 @@ categories:
 tags:
     - post format
 image:
-   thumb: "gallery-example-1-thumb.jpg"
+   thumb: "01.jpg"
 gallery:
     - image_url: gallery-example-1.jpg
       caption: Great images by Unsplash.com

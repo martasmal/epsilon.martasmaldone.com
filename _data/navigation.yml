@@ -8,10 +8,19 @@
   dropdown:
   - title: "Ōsaka-eki"
     url: "/works/Ōsaka-eki/"
-  - title: "Gallery"
-    url: "/works/gallery/"
+  - title: "Time Capsule Josaphat"
+    url: "/works/Time-Capsule-Josaphat/"
   - title: "la memoria si fa carne"
-    url: "/works//la-memoria-si-fa-carne/"
+    url: "/works/la-memoria-si-fa-carne/"
+  - title: "via Markelbach"
+    url: "/works/via-Markelbach/"
+  - title: "Etat de transit"
+    url: "/works/etat-de-transit/"
+  - title: "Belgian journal"
+    url: "/works/belgian-journal/"
+  - title: "Il dottore della peste"
+    url: "/works/Il-dottore-della-peste/"
+
 - title: Blog
   url: "blog"
   side: right

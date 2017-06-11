@@ -1,87 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3064bf95-ee83-40d8-8fab-85efeb3416d0" name="Default" comment="osaka-eki formattazione text sbagliata">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-07-09-post-left-sidebar.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-07-10-breadcrumb.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-07-10-post-right-sidebar.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-08-19-page-fullwidth.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-09-10-portfolio.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-09-13-grid.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-10-08-header-image-pattern.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-10-09-header-full-width-image.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-10-09-header-image-color.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2014-10-09-header-logo-only.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2015-02-10-header-with-text.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2015-03-12-no-header-but-image.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2015-08-11-no-header.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2015-08-15-comments.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2015-08-16-typography.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/design/2015-10-15-mediaelement_js.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery-example-1-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery-example-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery-example-2-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery-example-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery-example-3-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery-example-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery-example-4-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery-example-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery-example-5-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery-example-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery-example-6-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery-example-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery-example-7-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery-example-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery-example-8-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery-example-8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header-bus-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header-bus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header_drop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header_homepage_13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header_roadmap_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header_roadmap_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header_typewriter.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header_unsplash_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header_unsplash_12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header_unsplash_2-970x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header_unsplash_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header_unsplash_4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header_unsplash_5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header_unsplash_6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header_unsplash_7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header_unsplash_8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header_unsplash_9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/header_unsplash_leaf.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/homepage_typography-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/homepage_typography.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mediaplayer_js-home.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mediaplayer_js-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mediaplayer_js-title.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pattern_concrete.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/presentation-feeling-responsive.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/promo-video-start.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/start-video-feeling-responsive-302x182.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/typewriter-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/unsplash_9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/unsplash_brooklyn-bridge-thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/unsplash_brooklyn-bridge_header.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/unsplash_eagle.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/video-feeling-responsive-1280x720.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/video-feeling-responsive-tutorial-frontpage.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/webdesign_screenshot_jcorneille.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/webdesign_screenshot_nixdorf.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/webdesign_screenshot_phlow.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/webdesign_screenshot_schriefer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/webdesign_screenshot_stilwandel.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/webdesign_screenshot_tarnkappe.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/widget-1-302x182.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/widget-github-303x182.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/documentation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/roadmap.md" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/design/2014-07-10-la-memoria-si-fa-carne.md" afterPath="$PROJECT_DIR$/_posts/works/2014-07-10-la-memoria-si-fa-carne.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/design/2014-09-15-gallery.md" afterPath="$PROJECT_DIR$/_posts/works/2014-09-15-gallery.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/design/2017-05-30-Ōsaka-eki.md" afterPath="$PROJECT_DIR$/_posts/works/2017-05-30-Ōsaka-eki.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pages/design.md" afterPath="$PROJECT_DIR$/pages/works.md" />
+    <list default="true" id="3064bf95-ee83-40d8-8fab-85efeb3416d0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/marta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/works/2010-09-15-etat-de-transit.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/works/2013-07-10-via-Markelbach.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/works/2015-02-14-Time-Capsule-Josaphat.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/works/2014-07-10-la-memoria-si-fa-carne.md" afterPath="$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/works/2014-09-15-gallery.md" afterPath="$PROJECT_DIR$/_posts/works/2012-09-15-belgian-journal.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/navigation.yml" afterPath="$PROJECT_DIR$/_data/navigation.yml" />
     </list>
@@ -95,58 +21,101 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-05-30-Ōsaka-eki.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/works/2017-05-30-Ōsaka-eki.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="102">
-                <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014-07-10-la-memoria-si-fa-carne.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/works/2014-07-10-la-memoria-si-fa-carne.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="136">
-                <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navigation.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="navigation.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            <state relative-caret-position="324">
+              <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-09-15-gallery.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/works/2014-09-15-gallery.md">
+      <file leaf-file-name="2008-05-30-Il-dottore-della-peste.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/works/2008-05-30-Il-dottore-della-peste.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+              <first_editor relative-caret-position="234">
+                <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor>
                 <js_state />
               </second_editor>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2010-09-15-etat-de-transit.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/works/2010-09-15-etat-de-transit.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="72">
+                <caret line="4" column="480" lean-forward="false" selection-start-line="4" selection-start-column="480" selection-end-line="4" selection-end-column="480" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/01.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2012-09-15-belgian-journal.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/works/2012-09-15-belgian-journal.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="178">
+                <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-02-14-Time-Capsule-Josaphat.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/works/2015-02-14-Time-Capsule-Josaphat.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="270">
+                <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="download.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/download.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/05.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/04.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -227,15 +196,23 @@
         <option value="$PROJECT_DIR$/_posts/works/2014-09-10-portfolio.md" />
         <option value="$PROJECT_DIR$/_posts/works/2014-09-15-gallery.md" />
         <option value="$PROJECT_DIR$/_posts/works/2014-07-10-la-memoria-si-fa-carne.md" />
+        <option value="$PROJECT_DIR$/_posts/works/2013-07-10-belgian-journal.md" />
+        <option value="$PROJECT_DIR$/_posts/works/2013-07-10-via-markelbach.md" />
+        <option value="$PROJECT_DIR$/_posts/works/2013-07-10-Time-Capsule-Josaphat.md" />
+        <option value="$PROJECT_DIR$/_posts/works/2012-09-15-Etat-de-transit.md" />
+        <option value="$PROJECT_DIR$/_posts/works/2010-09-15-Etat-de-transit.md" />
+        <option value="$PROJECT_DIR$/_posts/works/2012-09-15-belgian-journal.md" />
+        <option value="$PROJECT_DIR$/_posts/works/2010-09-15-etat-de-transit.md" />
         <option value="$PROJECT_DIR$/_data/navigation.yml" />
+        <option value="$PROJECT_DIR$/_posts/works/2008-09-15-Il-dottore-della-peste.md" />
+        <option value="$PROJECT_DIR$/_posts/works/2008-05-30-Il-dottore-della-peste.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
-    <option name="y" value="25" />
-    <option name="width" value="1922" />
-    <option name="height" value="1056" />
+    <option name="y" value="27" />
+    <option name="width" value="1920" />
+    <option name="height" value="991" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -253,6 +230,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -262,20 +240,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="epsilon.martasmaldone.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="epsilon.martasmaldone.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="epsilon.martasmaldone.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -321,21 +285,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="epsilon.martasmaldone.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="epsilon.martasmaldone.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_includes" />
+              <option name="myItemId" value="_drafts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -355,12 +305,19 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../aavv.io" />
     <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/works" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/works" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -451,13 +408,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496059607952</updated>
-    </task>
-    <task id="LOCAL-00035" summary="change portfolio.md">
-      <created>1496307317462</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1496307317462</updated>
     </task>
     <task id="LOCAL-00036" summary="change portfolio.md">
       <created>1496307438254</created>
@@ -795,21 +745,27 @@
       <option name="project" value="LOCAL" />
       <updated>1496600638071</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="projects insert in /works">
+      <created>1497192055157</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1497192055158</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="25" width="1922" height="1056" extended-state="6" />
+    <frame x="0" y="27" width="1920" height="991" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2984375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914045" sideWeight="0.50625" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914045" sideWeight="0.49375" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31510416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875144" sideWeight="0.5052083" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914045" sideWeight="0.48854166" order="17" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3207331" sideWeight="0.49479166" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -825,6 +781,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31510416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914045" sideWeight="0.49375" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -874,7 +831,8 @@
     <MESSAGE value="osaka eki cambio thumbnail url" />
     <MESSAGE value="commit workspace.xml" />
     <MESSAGE value="frontpage nuovo" />
-    <option name="LAST_COMMIT_MESSAGE" value="frontpage nuovo" />
+    <MESSAGE value="projects insert in /works" />
+    <option name="LAST_COMMIT_MESSAGE" value="projects insert in /works" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -885,47 +843,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_data/language.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/mediaelement_js/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="1988" column="31" lean-forward="false" selection-start-line="1988" selection-start-column="31" selection-end-line="1988" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/socialmedia.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/services.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/contact.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/styles_feeling_responsive.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-180">
@@ -946,19 +863,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/roadmap.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/roadmap.md" />
     <entry file="file://$PROJECT_DIR$/_sass/_01_settings_colors.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2052">
@@ -973,19 +878,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2014-07-10-post-right-sidebar.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/2014-07-10-post-right-sidebar.md" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1728">
@@ -997,23 +890,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2015-08-16-typography.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/2015-08-16-typography.md" />
     <entry file="file://$PROJECT_DIR$/_drafts/video.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1031,7 +911,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-157">
           <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1061,27 +940,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/01.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/02.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/03.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/04.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/05.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1091,16 +950,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/download.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="521" column="23" lean-forward="false" selection-start-line="521" selection-start-column="23" selection-end-line="521" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1120,6 +973,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1127,6 +981,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1148,105 +1003,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2014-10-09-header-image-color.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/documentation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2015-10-15-mediaelement_js.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="408">
-            <caret line="24" column="17" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="24" selection-end-column="17" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2014-09-13-grid.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2014-07-10-breadcrumb.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2014-10-08-header-image-pattern.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2014-10-09-header-full-width-image.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/2014-10-09-header-image-color.md" />
+    <entry file="file://$PROJECT_DIR$/pages/documentation.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/works/2015-10-15-mediaelement_js.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/works/2014-09-13-grid.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/works/2014-07-10-breadcrumb.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/works/2014-10-08-header-image-pattern.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/works/2014-10-09-header-full-width-image.md" />
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="205" column="19" lean-forward="false" selection-start-line="205" selection-start-column="19" selection-end-line="205" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1265,7 +1036,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/archive.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="108">
           <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding />
         </state>
@@ -1274,8 +1045,8 @@
     <entry file="file://$PROJECT_DIR$/pages/pages-root-folder/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="748">
-            <caret line="44" column="46" lean-forward="false" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
+          <first_editor relative-caret-position="486">
+            <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
             <folding />
           </first_editor>
           <second_editor>
@@ -1284,32 +1055,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2014-09-10-portfolio.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="17" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2014-09-15-gallery.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/2014-09-10-portfolio.md" />
     <entry file="file://$PROJECT_DIR$/_posts/works/2017-05-30-Ōsaka-eki.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1323,7 +1069,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2014-07-10-la-memoria-si-fa-carne.md">
+    <entry file="file://$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="136">
@@ -1336,11 +1082,114 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/2013-07-10-via-Markelbach.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="72">
+            <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/download.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/05.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/04.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/2015-02-14-Time-Capsule-Josaphat.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/02.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/01.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/2012-09-15-belgian-journal.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="178">
+            <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/2010-09-15-etat-de-transit.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="72">
+            <caret line="4" column="480" lean-forward="false" selection-start-line="4" selection-start-column="480" selection-end-line="4" selection-end-column="480" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/2008-09-15-Il-dottore-della-peste.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state relative-caret-position="324">
+          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/2008-05-30-Il-dottore-della-peste.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="234">
+            <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>
