@@ -3,7 +3,7 @@ id: 1115
 title: Un Fatto importante oggi..
 date: 2009-09-23T11:29:12+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://localhost/wp-martablog/?p=1115
 permalink: /index.php/2009/09/23/il-fatto-quotidiano/
 categories:

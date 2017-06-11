@@ -3,7 +3,7 @@ id: 720
 title: reato di “ingresso e permanenza clandestina”
 date: 2009-07-02T16:19:35+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://localhost/wordpress/?p=720
 permalink: /index.php/2009/07/02/la-clandestinita-in-italia-e-reato/
 categories:

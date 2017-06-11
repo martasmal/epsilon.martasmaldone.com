@@ -3,7 +3,7 @@ id: 1818
 title: Botanique
 date: 2009-02-18T22:29:55+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/?p=1818
 permalink: /index.php/2009/02/18/botanique/
 categories:

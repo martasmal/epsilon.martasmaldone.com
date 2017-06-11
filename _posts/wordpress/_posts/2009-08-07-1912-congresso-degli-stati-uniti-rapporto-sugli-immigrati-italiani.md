@@ -3,7 +3,7 @@ id: 1134
 title: ottobre 1912 _Rapporto sugli immigrati italiani
 date: 2009-08-07T17:26:45+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://localhost/wp-martablog/?p=1134
 permalink: /index.php/2009/08/07/1912-congresso-degli-stati-uniti-rapporto-sugli-immigrati-italiani/
 categories:

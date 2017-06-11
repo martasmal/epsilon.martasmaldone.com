@@ -3,7 +3,7 @@ id: 2835
 title: a room with a view in Saint Malo
 date: 2013-12-01T15:49:52+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/?p=2835
 permalink: /index.php/2013/12/01/a-room-with-a-view/
 categories:

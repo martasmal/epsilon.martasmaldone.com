@@ -3,7 +3,7 @@ id: 735
 title: disobbedienza civile
 date: 2009-07-17T16:03:13+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://localhost/wordpress/?p=735
 permalink: /index.php/2009/07/17/disobbedienza-civile/
 categories:

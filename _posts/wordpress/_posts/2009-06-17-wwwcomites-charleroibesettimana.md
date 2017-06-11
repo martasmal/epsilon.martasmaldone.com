@@ -3,7 +3,7 @@ id: 571
 title: www.comites-charleroi.be/Settimana/
 date: 2009-06-17T12:22:52+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://localhost/wordpress/?p=571
 permalink: /index.php/2009/06/17/wwwcomites-charleroibesettimana/
 categories:

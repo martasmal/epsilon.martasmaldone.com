@@ -3,7 +3,7 @@ id: 943
 title: 'my photo-collage for Maria Tarantino&#8217;s new documentary &#8216;Our City&#8217;'
 date: 2009-09-15T09:32:22+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://localhost/wp-martablog/?p=943
 permalink: /index.php/2009/09/15/performancechoreography-on-rooftops/
 categories:

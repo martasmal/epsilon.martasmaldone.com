@@ -3,7 +3,7 @@ id: 2957
 title: in a restaurant_Rotterdam
 date: 2013-01-29T14:32:25+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/?p=2957
 permalink: /index.php/2013/01/29/bar_rotterdam/
 categories:

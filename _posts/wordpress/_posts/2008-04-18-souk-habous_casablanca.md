@@ -3,7 +3,7 @@ id: 1446
 title: Souk Habous_Casablanca
 date: 2008-04-18T15:44:40+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/?p=1446
 permalink: /index.php/2008/04/18/souk-habous_casablanca/
 categories:

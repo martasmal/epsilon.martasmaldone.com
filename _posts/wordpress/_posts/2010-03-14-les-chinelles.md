@@ -3,7 +3,7 @@ id: 1610
 title: Les Chinels de Fosse-La-Ville
 date: 2010-03-14T08:12:23+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/?p=1610
 permalink: /index.php/2010/03/14/les-chinelles/
 categories:

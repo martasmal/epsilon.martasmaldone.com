@@ -3,7 +3,7 @@ id: 3062
 title: hotel room _Kyoto
 date: 2016-04-12T08:39:45+00:00
 author: admin6059
-layout: post
+layout: page
 guid: http://blog.martasmaldone.eu/?p=3062
 permalink: /index.php/2016/04/12/hotel-room-_kyoto/
 categories:

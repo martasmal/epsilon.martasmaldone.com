@@ -3,7 +3,7 @@ id: 3960
 title: //introducing//
 date: 2011-05-03T22:56:09+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.eu/?p=3960
 permalink: /index.php/2011/05/03/introducing/
 categories:

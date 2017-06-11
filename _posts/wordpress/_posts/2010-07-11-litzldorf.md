@@ -3,7 +3,7 @@ id: 1459
 title: Rosenheim, Bavaria
 date: 2010-07-11T09:48:00+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/?p=1459
 permalink: /index.php/2010/07/11/litzldorf/
 categories:

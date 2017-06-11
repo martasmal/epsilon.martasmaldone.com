@@ -3,7 +3,7 @@ id: 918
 title: Open screen_Cinema Nova
 date: 2009-07-16T12:46:59+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://localhost/wp-martablog/?p=918
 permalink: /index.php/2009/07/16/open-screen_cinema-nova/
 categories:

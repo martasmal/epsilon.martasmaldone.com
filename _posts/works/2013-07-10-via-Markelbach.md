@@ -8,7 +8,6 @@ breadcrumb: false
 categories:
     - works
 tags:
-    - blog
     - content
     - post
     - post format

@@ -3,7 +3,7 @@ id: 3396
 title: Hrvatska
 date: 2005-09-02T11:25:49+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.eu/?p=3396
 permalink: /index.php/2005/09/02/republika-hrvatska/
 categories:

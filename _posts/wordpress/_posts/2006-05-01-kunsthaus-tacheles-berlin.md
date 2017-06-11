@@ -3,7 +3,7 @@ id: 3444
 title: Kunsthaus Tacheles, Berlin
 date: 2006-05-01T18:17:41+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.eu/?p=3444
 permalink: /index.php/2006/05/01/kunsthaus-tacheles-berlin/
 categories:

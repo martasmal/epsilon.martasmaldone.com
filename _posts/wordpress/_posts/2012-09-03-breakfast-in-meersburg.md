@@ -3,7 +3,7 @@ id: 2548
 title: Meersburg_Lake Constance
 date: 2012-09-03T21:25:29+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/?p=2548
 permalink: /index.php/2012/09/03/breakfast-in-meersburg/
 categories:

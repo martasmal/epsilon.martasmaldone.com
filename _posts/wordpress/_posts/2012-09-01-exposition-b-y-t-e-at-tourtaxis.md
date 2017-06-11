@@ -3,7 +3,7 @@ id: 3815
 title: 'Exposition B.Y.T.E. at Tour&#038;Taxis'
 date: 2012-09-01T18:11:16+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.eu/?p=3815
 permalink: /index.php/2012/09/01/exposition-b-y-t-e-at-tourtaxis/
 categories:

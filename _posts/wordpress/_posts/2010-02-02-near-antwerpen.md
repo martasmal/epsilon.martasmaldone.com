@@ -3,7 +3,7 @@ id: 3735
 title: near Antwerpen
 date: 2010-02-02T07:45:07+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.eu/?p=3735
 permalink: /index.php/2010/02/02/near-antwerpen/
 categories:

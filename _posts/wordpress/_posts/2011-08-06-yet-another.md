@@ -3,7 +3,7 @@ id: 1648
 title: Brussels Zaventem
 date: 2011-08-06T18:51:00+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/2011/08/yet-another/
 permalink: /index.php/2011/08/06/yet-another/
 categories:

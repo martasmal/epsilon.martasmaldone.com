@@ -3,7 +3,7 @@ id: 1402
 title: 'B&#038;B_pets allowed, Utrecht'
 date: 2009-10-17T10:33:59+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/?p=1402
 permalink: /index.php/2009/10/17/room-hotel-in-utrecht/
 categories:

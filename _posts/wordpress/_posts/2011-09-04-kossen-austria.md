@@ -3,7 +3,7 @@ id: 1724
 title: Hotel room in Kössen, Austria
 date: 2011-09-04T16:35:17+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/?p=1724
 permalink: /index.php/2011/09/04/kossen-austria/
 categories:

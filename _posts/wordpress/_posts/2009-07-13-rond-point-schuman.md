@@ -3,7 +3,7 @@ id: 3905
 title: Rond-point Schuman
 date: 2009-07-13T08:24:26+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.eu/?p=3905
 permalink: /index.php/2009/07/13/rond-point-schuman/
 categories:

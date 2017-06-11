@@ -3,7 +3,7 @@ id: 2415
 title: somewhere in Liege
 date: 2008-09-15T13:32:42+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/?p=2415
 permalink: /index.php/2008/09/15/somewhere-in-liege/
 categories:

@@ -3,7 +3,7 @@ id: 3810
 title: Il cinema Ferrari
 date: 2007-06-04T14:05:01+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.eu/?p=3810
 permalink: /index.php/2007/06/04/il-cinema-ferrari/
 categories:

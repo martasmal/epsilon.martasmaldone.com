@@ -6,7 +6,6 @@ teaser: "project on .."
 categories:
     - works
 tags:
-    - blog
     - content
     - post
     - video

@@ -3,7 +3,7 @@ id: 639
 title: 'Stroligut di ca da l&#8217;aga'
 date: 2009-06-22T17:55:34+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://localhost/wordpress/?p=639
 permalink: /index.php/2009/06/22/stroligut-di-ca-da-laga/
 categories:

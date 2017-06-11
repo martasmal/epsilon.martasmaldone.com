@@ -3,7 +3,7 @@ id: 1563
 title: kunst_Bxl
 date: 2010-05-16T16:18:24+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/?p=1563
 permalink: /index.php/2010/05/16/kunst_festival/
 categories:

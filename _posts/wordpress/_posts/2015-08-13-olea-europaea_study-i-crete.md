@@ -3,7 +3,7 @@ id: 3016
 title: 'Olea europaea: Case Study I (Crete)'
 date: 2015-08-13T12:55:59+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/?p=3016
 permalink: /index.php/2015/08/13/olea-europaea_study-i-crete/
 categories:

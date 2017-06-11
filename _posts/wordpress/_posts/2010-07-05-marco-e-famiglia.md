@@ -3,7 +3,7 @@ id: 1812
 title: Marco e famiglia
 date: 2010-07-05T22:20:47+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/?p=1812
 permalink: /index.php/2010/07/05/marco-e-famiglia/
 categories:

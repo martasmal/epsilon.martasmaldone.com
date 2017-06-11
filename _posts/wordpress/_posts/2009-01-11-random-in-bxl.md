@@ -3,7 +3,7 @@ id: 2054
 title: random in Bxl
 date: 2009-01-11T22:21:18+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/?p=2054
 permalink: /index.php/2009/01/11/random-in-bxl/
 categories:

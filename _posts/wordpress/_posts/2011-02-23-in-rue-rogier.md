@@ -3,7 +3,7 @@ id: 2673
 title: in rue Rogier
 date: 2011-02-23T09:15:57+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/?p=2673
 permalink: /index.php/2011/02/23/in-rue-rogier/
 categories:

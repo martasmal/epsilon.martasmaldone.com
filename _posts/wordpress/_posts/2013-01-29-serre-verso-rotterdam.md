@@ -3,7 +3,7 @@ id: 2950
 title: Nederland
 date: 2013-01-29T14:25:46+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/?p=2950
 permalink: /index.php/2013/01/29/serre-verso-rotterdam/
 categories:

@@ -3,7 +3,7 @@ id: 2850
 title: Senza titolo (Autoritratto), 1970. (William Eggleston, Eggleston artistic trust)
 date: 2012-09-29T17:29:07+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/?p=2850
 permalink: /index.php/2012/09/29/election-in-antwerp/
 categories:

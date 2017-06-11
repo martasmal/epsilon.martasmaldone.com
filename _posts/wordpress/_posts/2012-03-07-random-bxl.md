@@ -3,7 +3,7 @@ id: 2501
 title: random bxl
 date: 2012-03-07T09:10:13+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/?p=2501
 permalink: /index.php/2012/03/07/random-bxl/
 categories:

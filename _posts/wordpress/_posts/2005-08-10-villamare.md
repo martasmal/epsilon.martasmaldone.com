@@ -3,7 +3,7 @@ id: 3544
 title: Villamare
 date: 2005-08-10T10:17:34+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.eu/?p=3544
 permalink: /index.php/2005/08/10/villamare/
 categories:

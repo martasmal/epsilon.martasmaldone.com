@@ -3,7 +3,7 @@ id: 861
 title: '&#8216;Calle Sophie_S&#8217;expose&#8217; au Palais des Beaux-Arts'
 date: 2009-07-16T23:02:29+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://localhost/wordpress/?p=861
 permalink: /index.php/2009/07/16/calle-sophie/
 image_url:

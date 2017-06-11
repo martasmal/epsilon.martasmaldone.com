@@ -3,7 +3,7 @@ id: 686
 title: O Belgio mio
 date: 2009-06-30T10:03:43+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://localhost/wordpress/?p=686
 permalink: /index.php/2009/06/30/o-belgio-mio/
 categories:

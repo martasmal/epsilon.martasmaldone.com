@@ -3,7 +3,7 @@ id: 1501
 title: 21 juillet_Fête Nationale Belge
 date: 2010-07-23T14:25:37+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/?p=1501
 permalink: /index.php/2010/07/23/fete-nationale-belge/
 categories:

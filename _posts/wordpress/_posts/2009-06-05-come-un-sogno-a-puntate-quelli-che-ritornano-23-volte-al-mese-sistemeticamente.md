@@ -3,7 +3,7 @@ id: 209
 title: come un sogno a puntate, quelli che ritornano 2/3 volte al mese, sistematicamente
 date: 2009-06-05T10:37:01+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://localhost/wordpress/?p=209
 permalink: /index.php/2009/06/05/come-un-sogno-a-puntate-quelli-che-ritornano-23-volte-al-mese-sistemeticamente/
 categories:

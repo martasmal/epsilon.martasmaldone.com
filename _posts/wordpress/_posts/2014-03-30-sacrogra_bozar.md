@@ -3,7 +3,7 @@ id: 2877
 title: SacroGra_Bozar
 date: 2014-03-30T08:41:35+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/?p=2877
 permalink: /index.php/2014/03/30/sacrogra_bozar/
 categories:

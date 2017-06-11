@@ -3,7 +3,7 @@ id: 3386
 title: 'cahier  &#8216;Etat de transit&#8217;'
 date: 2008-04-20T11:01:53+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.eu/?p=3386
 permalink: /index.php/2008/04/20/appunti-projet-etat-de-transit/
 categories:

@@ -3,7 +3,7 @@ id: 3075
 title: Ryokan in Shibu Onsen_Japanese Alps
 date: 2016-04-03T11:31:53+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.eu/?p=3075
 permalink: /index.php/2016/04/03/hotel-room-in-shibu-onsen/
 categories:

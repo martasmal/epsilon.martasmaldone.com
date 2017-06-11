@@ -3,7 +3,7 @@ id: 3413
 title: L’Empire des signes
 date: 2016-04-08T12:24:10+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.eu/?p=3413
 permalink: /index.php/2016/04/08/limpero-dei-segni/
 categories:

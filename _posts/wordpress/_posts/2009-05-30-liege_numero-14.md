@@ -3,7 +3,7 @@ id: 117
 title: Liège_linea 18
 date: 2009-05-30T01:30:16+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://localhost/wordpress/?p=117
 permalink: /index.php/2009/05/30/liege_numero-14/
 image_url:

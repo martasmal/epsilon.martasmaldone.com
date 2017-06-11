@@ -3,7 +3,7 @@ id: 625
 title: 'L&#8217;intelligenza non avrà mai peso'
 date: 2009-06-22T17:07:54+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://localhost/wordpress/?p=625
 permalink: /index.php/2009/06/22/lintelligenza-non-avra-mai-peso/
 categories:

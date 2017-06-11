@@ -3,7 +3,7 @@ id: 2678
 title: parking lot view
 date: 2011-05-23T09:46:32+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://blog.martasmaldone.com/?p=2678
 permalink: /index.php/2011/05/23/parking-lot-view/
 categories:

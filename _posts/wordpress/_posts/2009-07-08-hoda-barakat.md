@@ -3,7 +3,7 @@ id: 732
 title: Hoda BARAKAT
 date: 2009-07-08T15:50:22+00:00
 author: admin6059
-layout: post
+layout: pages
 guid: http://localhost/wordpress/?p=732
 permalink: /index.php/2009/07/08/hoda-barakat/
 categories:
