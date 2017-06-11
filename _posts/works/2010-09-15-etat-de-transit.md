@@ -7,68 +7,49 @@ categories:
     - works
 tags:
     - post format
+    - projects
 header: no
 image:
    thumb: "02.jpg"
 gallery:
-    - image_url: gallery-example-1.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-2.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-3.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-4.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-5.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-6.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-7.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-8.jpg
-      caption: Great images by Unsplash.com
+    - image_url: ETAT_TR_00001.jpg
+    #caption: generated caption for ETAT_TR_00001.jpg 
+    - image_url: ETAT_TR_00002.jpg
+    #caption: generated caption for ETAT_TR_00002.jpg 
+    - image_url: ETAT_TR_00003.jpg
+    #caption: generated caption for ETAT_TR_00003.jpg 
+    - image_url: ETAT_TR_00004.jpg
+    #caption: generated caption for ETAT_TR_00004.jpg 
+    - image_url: ETAT_TR_00005.jpg
+    #caption: generated caption for ETAT_TR_00005.jpg 
+    - image_url: ETAT_TR_00006.jpg
+    #caption: generated caption for ETAT_TR_00006.jpg 
+    - image_url: ETAT_TR_00007.jpg
+    #caption: generated caption for ETAT_TR_00007.jpg 
+    - image_url: ETAT_TR_00008.jpg
+    #caption: generated caption for ETAT_TR_00008.jpg 
+    - image_url: ETAT_TR_00009.jpg
+    #caption: generated caption for ETAT_TR_00009.jpg 
+    - image_url: ETAT_TR_00010.jpg
+    #caption: generated caption for ETAT_TR_00010.jpg 
+    - image_url: ETAT_TR_00011.jpg
+    #caption: generated caption for ETAT_TR_00011.jpg 
+    - image_url: ETAT_TR_00012.jpg
+    #caption: generated caption for ETAT_TR_00012.jpg 
+    - image_url: ETAT_TR_00013.jpg
+    #caption: generated caption for ETAT_TR_00013.jpg 
+    - image_url: ETAT_TR_00014.jpg
+    #caption: generated caption for ETAT_TR_00014.jpg 
+    - image_url: ETAT_TR_00015.jpg
+    #caption: generated caption for ETAT_TR_00015.jpg 
+    - image_url: ETAT_TR_00016.jpg
+    #caption: generated caption for ETAT_TR_00016.jpg 
 ---
-You just need to choose a template like the [`page`][3]- or [`page-fullwidth`][4]-template and then just use `{% raw %}{% include gallery %}{% endraw %}`.
-<!--more-->
+
+
 
 {% include gallery %}
 
-
-## How to embed a gallery
-
-`{% raw %}{% include gallery %}{% endraw %}` lets you easily embed a gallery into your post. To use the gallery-include...
-
-
-### Step 1
-
-1. Make two images: a thumbnail and a big image.
-2. Name the thumbnail *gallery-image-thumb.jpg* and...
-3. ...name the big *gallery-image.jpg*.
-4. Place them in the *images*-folder.
-
-
-### Step 2
-
-Define the big version in frontmatter,  
-
-~~~
-gallery:
-    - image_url: gallery-image.jpg
-~~~
-
-If you like captions, give each image a caption:
-
-~~~
-gallery:
-    - image_url: gallery-image.jpg
-       caption: Starting Page with huge One Logo
-~~~
-
-### Step 3
-
-Add the include whereever you want in your content with `{% raw %}{% include gallery %}{% endraw %}`.
-
-{% include alert info='Have a look at this example-entry. And have a look into the images-folder. :)' %}
 
 
 
@@ -82,11 +63,5 @@ Add the include whereever you want in your content with `{% raw %}{% include gal
 
 ## Other Post Formats
 {: .t60 }
-{% include list-posts tag='post format' %}
+{% include list-posts tag='projects' %}
 
-
-
- [1]: http://foundation.zurb.com/docs/components/clearing.html
- [2]: http://foundation.zurb.com/docs/components/block_grid.html
- [3]: {{ site.url }}{{ site.baseurl }}/design/page/
- [4]: {{ site.url }}{{ site.baseurl }}/design/page-fullwidth/
