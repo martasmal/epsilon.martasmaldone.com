@@ -13,10 +13,7 @@ tags:
     - post format
 header: no
 image:
-    title: /images/04.jpg
-    caption: MartaSmaldone.com
-    caption_url: belgian journal
-author: Marta Smaldone
+   thumb: "04.jpg"
 ---
 *Feeling Responsive* shows metadata by default. The default behaviour can be changed via `config.yml`. To show metadata at the end of a page/post just add the following to front matter:
 <!--more-->
