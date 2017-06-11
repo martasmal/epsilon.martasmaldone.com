@@ -1,57 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3064bf95-ee83-40d8-8fab-85efeb3416d0" name="Default" comment="sidebar listing (categories, tags)">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00001-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00001.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00002-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00002.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00003-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00003.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00004-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00004.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00005-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00005.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00006-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00006.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00007-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00007.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00008-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00008.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00009-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00009.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00010-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00010.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00011-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00011.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00012-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00012.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00013-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00013.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00014-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00014.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00015-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00015.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00016-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ETAT_TR_00016.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/etat_transit/etat_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/etat_transit/etat_010.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/etat_transit/etat_011.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/etat_transit/etat_012.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/etat_transit/etat_013.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/etat_transit/etat_014.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/etat_transit/etat_015.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/etat_transit/etat_016.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/etat_transit/etat_02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/etat_transit/etat_03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/etat_transit/etat_04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/etat_transit/etat_05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/etat_transit/etat_06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/etat_transit/etat_07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/etat_transit/etat_08.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/etat_transit/etat_09.jpg" afterPath="" />
+    <list default="true" id="3064bf95-ee83-40d8-8fab-85efeb3416d0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00001-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00002-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00002.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00003-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00003.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00004-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00004.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00005-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00005.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00006-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00006.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00007-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00007.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00008-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00008.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00009-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00009.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00010-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00010.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00011-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00011.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00012-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/MARK_00012.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/via_markelbach/001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/via_markelbach/0010.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/via_markelbach/0011.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/via_markelbach/0012.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/via_markelbach/002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/via_markelbach/003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/via_markelbach/004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/via_markelbach/005.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/via_markelbach/006.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/via_markelbach/007.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/via_markelbach/008.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/via_markelbach/009.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/works/2010-09-15-etat-de-transit.md" afterPath="$PROJECT_DIR$/_posts/works/2010-09-15-etat-de-transit.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/works/2013-07-10-via-Markelbach.md" afterPath="$PROJECT_DIR$/_posts/works/2013-07-10-via-Markelbach.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -77,8 +65,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/works/2012-09-15-belgian-journal.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="411">
-                <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+              <first_editor relative-caret-position="141">
+                <caret line="61" column="40" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -86,12 +74,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2010-09-15-etat-de-transit.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2010-09-15-etat-de-transit.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/works/2010-09-15-etat-de-transit.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="720">
-                <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <first_editor relative-caret-position="271">
+                <caret line="61" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2013-07-10-via-Markelbach.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/works/2013-07-10-via-Markelbach.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="351">
+                <caret line="34" column="31" lean-forward="false" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -115,13 +116,6 @@
       </file>
       <file leaf-file-name="BEJ_bxl_2006.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/BEJ_bxl_2006.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20170220_165722-1-300x193.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/wp-content/uploads/2017/03/20170220_165722-1-300x193.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -235,7 +229,6 @@
         <option value="$PROJECT_DIR$/_posts/works/2017-05-30-Ōsaka-eki.md" />
         <option value="$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md" />
         <option value="$PROJECT_DIR$/_posts/works/2015-02-14-Time-Capsule-Josaphat.md" />
-        <option value="$PROJECT_DIR$/_posts/works/2013-07-10-via-Markelbach.md" />
         <option value="$PROJECT_DIR$/_posts/works/2008-05-30-Il-dottore-della-peste.md" />
         <option value="$PROJECT_DIR$/_posts/wordpress/_posts/2017-02-21-usa.md" />
         <option value="$PROJECT_DIR$/_posts/wordpress/_posts/2016-10-20-lana.md" />
@@ -252,6 +245,7 @@
         <option value="$PROJECT_DIR$/_includes/_sidebar.html" />
         <option value="$PROJECT_DIR$/_posts/works/2012-09-15-belgian-journal.md" />
         <option value="$PROJECT_DIR$/_posts/works/2010-09-15-etat-de-transit.md" />
+        <option value="$PROJECT_DIR$/_posts/works/2013-07-10-via-Markelbach.md" />
       </list>
     </option>
   </component>
@@ -446,13 +440,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496059607952</updated>
-    </task>
-    <task id="LOCAL-00043" summary="change portfolio.md">
-      <created>1496309481092</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1496309481092</updated>
     </task>
     <task id="LOCAL-00044" summary="change portfolio.md">
       <created>1496391003750</created>
@@ -790,7 +777,14 @@
       <option name="project" value="LOCAL" />
       <updated>1497199363608</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="Etat transit gallery">
+      <created>1497199914790</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1497199914790</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -865,7 +859,8 @@
     <MESSAGE value="sidebar listing (categories, tags)" />
     <MESSAGE value="re-import wordpress" />
     <MESSAGE value="Belgian Journal Gallery" />
-    <option name="LAST_COMMIT_MESSAGE" value="Belgian Journal Gallery" />
+    <MESSAGE value="Etat transit gallery" />
+    <option name="LAST_COMMIT_MESSAGE" value="Etat transit gallery" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -960,16 +955,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="120">
             <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2013-07-10-via-Markelbach.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           </first_editor>
           <second_editor />
         </state>
@@ -1310,17 +1295,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2012-09-15-belgian-journal.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="411">
-            <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/BEJ_cattelan_2009-thumb.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1339,8 +1313,30 @@
     <entry file="file://$PROJECT_DIR$/_posts/works/2010-09-15-etat-de-transit.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="720">
-            <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <first_editor relative-caret-position="271">
+            <caret line="61" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/2012-09-15-belgian-journal.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="141">
+            <caret line="61" column="40" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/2013-07-10-via-Markelbach.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="351">
+            <caret line="34" column="31" lean-forward="false" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
             <folding />
           </first_editor>
           <second_editor />

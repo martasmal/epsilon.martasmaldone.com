@@ -1,38 +1,55 @@
 ---
 layout: page
-subheadline: photo project
-title:  "via Markelbach"
-teaser: "via Markelbach <strong>But</strong> you can customize posts/pages easily via switches in the front matter to <em>get a sidebar</em> and/or to <em>turn off meta-information</em> at the end of the page like categories, tags and dates."
-meta_teaser: "This is an example of a beautiful aligned post in the middle. There is no sidebar to distract the reader. The difference to the Page-Template is, that you find meta-information at the bottom of the post."
-breadcrumb: false
+subheadline:  "photo project"
+title:  "Via Markelbach"
+teaser: "Wanna create a responsive gallery to showcase your portfolio, recent photos or images? It's quite easy thanks to Foundation and <a href='http://foundation.zurb.com/docs/components/clearing.html'>Clearing Lightbox</a>."
 categories:
     - works
 tags:
-    - content
-    - post
     - post format
+    - projects
 header: no
 image:
-    title: /images/02.jpg
-    caption: MartaSmaldone.com
-    caption_url: belgian journal
-author: Marta Smaldone
+   thumb: "01.jpg"
+gallery:
+    - image_url: MARK_00001.jpg
+    #caption: generated caption for MARK_00001.jpg 
+    - image_url: MARK_00002.jpg
+    #caption: generated caption for MARK_00002.jpg 
+    - image_url: MARK_00003.jpg
+    #caption: generated caption for MARK_00003.jpg 
+    - image_url: MARK_00004.jpg
+    #caption: generated caption for MARK_00004.jpg 
+    - image_url: MARK_00005.jpg
+    #caption: generated caption for MARK_00005.jpg 
+    - image_url: MARK_00006.jpg
+    #caption: generated caption for MARK_00006.jpg 
+    - image_url: MARK_00007.jpg
+    #caption: generated caption for MARK_00007.jpg 
+    - image_url: MARK_00008.jpg
+    #caption: generated caption for MARK_00008.jpg 
+    - image_url: MARK_00009.jpg
+    #caption: generated caption for MARK_00009.jpg 
+    - image_url: MARK_00010.jpg
+    #caption: generated caption for MARK_00010.jpg 
+    - image_url: MARK_00011.jpg
+    #caption: generated caption for MARK_00011.jpg 
+    - image_url: MARK_00012.jpg
+    #caption: generated caption for MARK_00012.jpg 
 ---
-*Feeling Responsive* shows metadata by default. The default behaviour can be changed via `config.yml`. To show metadata at the end of a page/post just add the following to front matter:
-<!--more-->
 
-~~~
-show_meta: true
-~~~
 
-If you don't want to show metadata, it's simple again:
+{% include gallery %}
 
-~~~
-show_meta: false
-~~~
+
+
+
+
+
+
 
 
 ## Other Post Formats
 {: .t60 }
-{% include list-posts tag='post format' %}
+{% include list-posts tag='projects' %}
 
