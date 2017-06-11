@@ -2,7 +2,7 @@
 layout: page
 subheadline:  "photo project"
 title:  "Via Markelbach"
-teaser: "Wanna create a responsive gallery to showcase your portfolio, recent photos or images? It's quite easy thanks to Foundation and <a href='http://foundation.zurb.com/docs/components/clearing.html'>Clearing Lightbox</a>."
+teaser: ""
 categories:
     - works
 tags:

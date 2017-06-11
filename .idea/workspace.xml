@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="3064bf95-ee83-40d8-8fab-85efeb3416d0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/works/2015-02-14-Time-Capsule-Josaphat.md" afterPath="$PROJECT_DIR$/_posts/works/2015-02-14-Time-Capsule-Josaphat.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/works/2012-09-15-belgian-journal.md" afterPath="$PROJECT_DIR$/_posts/works/2012-09-15-belgian-journal.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/works/2013-07-10-via-Markelbach.md" afterPath="$PROJECT_DIR$/_posts/works/2013-07-10-via-Markelbach.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md" afterPath="$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,8 +51,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/works/2013-07-10-via-Markelbach.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-72">
-                <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+              <first_editor relative-caret-position="72">
+                <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -60,7 +62,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-02-14-Time-Capsule-Josaphat.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2015-02-14-Time-Capsule-Josaphat.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/works/2015-02-14-Time-Capsule-Josaphat.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
@@ -75,12 +77,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2012-09-15-belgian-journal.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2012-09-15-belgian-journal.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/works/2012-09-15-belgian-journal.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="198">
-                <caret line="11" column="15" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="18" />
+              <first_editor relative-caret-position="72">
+                <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -138,8 +140,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="244">
-                <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="25" />
+              <first_editor relative-caret-position="82">
+                <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -248,13 +250,13 @@
         <option value="$PROJECT_DIR$/_posts/_wordpress/2005-08-10-villamare.md" />
         <option value="$PROJECT_DIR$/blog/index.html" />
         <option value="$PROJECT_DIR$/_includes/_sidebar.html" />
-        <option value="$PROJECT_DIR$/_posts/works/2012-09-15-belgian-journal.md" />
         <option value="$PROJECT_DIR$/_posts/works/2010-09-15-etat-de-transit.md" />
         <option value="$PROJECT_DIR$/pages/search.md" />
         <option value="$PROJECT_DIR$/pages/contact.md" />
+        <option value="$PROJECT_DIR$/_posts/works/2015-02-14-Time-Capsule-Josaphat.md" />
         <option value="$PROJECT_DIR$/_posts/works/2013-07-10-via-Markelbach.md" />
         <option value="$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md" />
-        <option value="$PROJECT_DIR$/_posts/works/2015-02-14-Time-Capsule-Josaphat.md" />
+        <option value="$PROJECT_DIR$/_posts/works/2012-09-15-belgian-journal.md" />
       </list>
     </option>
   </component>
@@ -302,7 +304,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -319,6 +321,14 @@
               <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uploads" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -331,6 +341,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epsilon.martasmaldone.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epsilon.martasmaldone.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="works" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epsilon.martasmaldone.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epsilon.martasmaldone.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -456,13 +498,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496059607952</updated>
-    </task>
-    <task id="LOCAL-00046" summary="change portfolio.md">
-      <created>1496393913789</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1496393913789</updated>
     </task>
     <task id="LOCAL-00047" summary="osaka eki change">
       <created>1496394083081</created>
@@ -800,7 +835,14 @@
       <option name="project" value="LOCAL" />
       <updated>1497202683815</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="thumn time capsule">
+      <created>1497202791934</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1497202791935</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -888,7 +930,8 @@
     <MESSAGE value="Belgian Journal Gallery" />
     <MESSAGE value="Etat transit gallery" />
     <MESSAGE value="thumn mamoria si fa carne" />
-    <option name="LAST_COMMIT_MESSAGE" value="thumn mamoria si fa carne" />
+    <MESSAGE value="thumn time capsule" />
+    <option name="LAST_COMMIT_MESSAGE" value="thumn time capsule" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1082,37 +1125,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2012-09-15-belgian-journal.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="198">
-            <caret line="11" column="15" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="18" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/works/2013-07-10-via-Markelbach.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-72">
-            <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="244">
-            <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="25" />
+          <first_editor relative-caret-position="72">
+            <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
             <folding />
           </first_editor>
           <second_editor>
@@ -1126,6 +1143,32 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="270">
             <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="82">
+            <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/2012-09-15-belgian-journal.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="72">
+            <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
             <folding />
           </first_editor>
           <second_editor>
