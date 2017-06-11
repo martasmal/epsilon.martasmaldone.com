@@ -10,7 +10,7 @@ tags:
     - projects
 header: no
 image:
-   thumb: "01.jpg"
+   thumb: "MARK_00002-thumb.jpg"
 gallery:
     - image_url: MARK_00001.jpg
     #caption: generated caption for MARK_00001.jpg 
