@@ -11,6 +11,7 @@ tags:
     - content
     - post
     - post format
+header: no
 image:
     title: /images/02.jpg
     caption: MartaSmaldone.com

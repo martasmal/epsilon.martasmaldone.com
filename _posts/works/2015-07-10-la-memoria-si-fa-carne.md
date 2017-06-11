@@ -11,6 +11,7 @@ tags:
     - content
     - post
     - post format
+header: no
 image:
     title: /images/arnolfini.jpg
     caption: MartaSmaldone.com
