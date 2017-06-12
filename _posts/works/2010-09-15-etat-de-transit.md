@@ -61,7 +61,7 @@ gallery:
 
 
 
-## Other Post Formats
+## Other Projects
 {: .t60 }
 {% include list-posts tag='projects' %}
 
