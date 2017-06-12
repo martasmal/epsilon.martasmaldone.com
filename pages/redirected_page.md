@@ -1,5 +1,5 @@
 ---
-title: "Blog Marta Smaldone 2005 - 2016"
+title: "Blog Marta Smaldone 2005-2016"
 layout: redirect
 sitemap: false
 permalink: /redirect-page/

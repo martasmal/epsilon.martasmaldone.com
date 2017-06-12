@@ -31,6 +31,8 @@
 #    url: "/blog/archive/"
   - title: "blog.martasmaldone.com"
     url: "/redirect-page/"
+  - title: "Aa.Vv. blogging site"
+    url: "/redirect-page/"
 
 - title: "Search"
   url: "/search/"

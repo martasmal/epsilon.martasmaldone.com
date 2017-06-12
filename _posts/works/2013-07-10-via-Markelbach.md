@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 subheadline:  "photo project"
 title:  "Via Markelbach"
 teaser: ""
@@ -38,8 +38,8 @@ gallery:
     #caption: generated caption for MARK_00012.jpg 
 ---
 
-
 {% include gallery %}
+
 
 
 

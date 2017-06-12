@@ -35,10 +35,10 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: http://www.aavv.io
-  text: Aa.Vv. Auctores Varii asbl ›
-  style: alert
+#callforaction:
+# url: http://www.aavv.io
+# text: Aa.Vv. Auctores Varii asbl ›
+#  style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
