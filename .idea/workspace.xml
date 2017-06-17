@@ -63,7 +63,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="323">
-                <caret line="19" column="163" lean-forward="false" selection-start-line="19" selection-start-column="163" selection-end-line="19" selection-end-column="163" />
+                <caret line="19" column="64" lean-forward="false" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -431,13 +431,6 @@
       <option name="presentableId" value="Default" />
       <updated>1496059607952</updated>
     </task>
-    <task id="LOCAL-00064" summary="osaka-eki formattazione text sbagliata">
-      <created>1496430860009</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1496430860009</updated>
-    </task>
     <task id="LOCAL-00065" summary="osaka-eki formattazione text sbagliata">
       <created>1496431248982</created>
       <option name="number" value="00065" />
@@ -774,7 +767,14 @@
       <option name="project" value="LOCAL" />
       <updated>1497716668515</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="insert text homepage">
+      <created>1497716718615</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1497716718615</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1300,7 +1300,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="323">
-            <caret line="19" column="163" lean-forward="false" selection-start-line="19" selection-start-column="163" selection-end-line="19" selection-end-column="163" />
+            <caret line="19" column="64" lean-forward="false" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
             <folding />
           </first_editor>
           <second_editor>
