@@ -6,6 +6,7 @@ tags: 		transmedia tech art network
 subtitle:  	born after inspiring talks and reflexions about art and tech
 category:   blog
 header:     no
+thumb:      aavvio.jpeg
 ---
 <!-- Start Writing Below in Markdown -->
 
