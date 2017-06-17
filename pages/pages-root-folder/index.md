@@ -17,7 +17,7 @@ widget2:
  title: "La memoria si fa carne"
  url: '/works/la-memoria-si-fa-carne/'
  image: arnolfini.jpg
- text: 'Le portrait des époux &shy;<em>Arnolfini de Jan Van Eyck,</em>qui date 1434 montre la condition d’un couple de migrantes toscanes qui habitait en Belgique.Je reprend avec ironie cette œuvre comme une référence, comme pour créer une continuité. '
+ text: 'Le portrait des époux &shy;<em>Arnolfini de Jan Van Eyck,</em>date 1434 et montre la condition d’un couple de migrantes toscanes qui habitait en Belgique.Je reprend avec ironie cette œuvre comme une référence, comme pour créer une continuité. '
 widget3:
  title: "I buried a Time Capsule"
  url: 'works/Time-Capsule-Josaphat/'
