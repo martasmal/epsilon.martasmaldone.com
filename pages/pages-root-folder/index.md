@@ -23,7 +23,7 @@ widget3:
  title: "Why I buried a Time Capsule"
  url: 'works/Time-Capsule-Josaphat/'
  image: 04.jpg
- text: '<em>Time Caspsule Josaphat</em> On February 14, 2015 I buried a temporal capsule under the fallow Josaphat, in Brussels. It will remain buried for 25 years. It can not be recovered until the year 2040.'
+ text: '<em>On 14 February 2015 I buried a time capsule under the Josaphat terrain, in Brussels.</em> It will remain buried for 25 years. It can not be recovered until the year 2040.'
 # Use the call for action to show a button on the frontpage
 #
 # Use the call for action to show a button on the frontpage
