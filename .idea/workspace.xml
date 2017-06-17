@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3064bf95-ee83-40d8-8fab-85efeb3416d0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/works/blog/2016-05-18-Why_I_found_AaVv.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/redirected_page2.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/navigation.yml" afterPath="$PROJECT_DIR$/_data/navigation.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md" afterPath="$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/works/blog/2016-05-18-Why_I_found_AaVv.md" afterPath="$PROJECT_DIR$/_posts/works/blog/2016-05-18-Why_I_found_AaVv.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,53 +19,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="redirect.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/redirect.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/blog/archive/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="376">
               <caret line="408" column="57" lean-forward="false" selection-start-line="408" selection-start-column="57" selection-end-line="408" selection-end-column="57" />
               <folding>
-                <marker date="1497686722828" expanded="true" signature="6712:7164" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="7292:7475" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="7514:11138" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="7550:11104" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="7724:11096" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="7769:8062" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="7894:8053" ph="..." />
-                <marker date="1497686722828" expanded="false" signature="8015:8021" ph=" " />
-                <marker date="1497686722828" expanded="true" signature="8107:8161" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="10874:11080" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="10891:11071" ph="..." />
-                <marker date="1497686722828" expanded="false" signature="11033:11039" ph=" " />
-                <marker date="1497686722828" expanded="true" signature="11194:11370" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="11239:11257" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="11258:11332" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="11308:11316" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="11435:12951" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="11459:12223" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="11485:12195" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="11534:11743" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="11630:11726" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="11843:11959" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="11907:11942" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="12044:12154" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="12106:12137" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="12269:12917" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="12295:12904" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="12377:12411" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="12487:12889" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="12537:12868" ph="..." />
-                <marker date="1497686722828" expanded="true" signature="13050:13485" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="6712:7164" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="7292:7475" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="7514:11112" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="7550:11078" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="7724:11070" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="7769:8062" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="7894:8053" ph="..." />
+                <marker date="1497690941084" expanded="false" signature="8015:8021" ph=" " />
+                <marker date="1497690941084" expanded="true" signature="8107:8161" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="10848:11054" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="10865:11045" ph="..." />
+                <marker date="1497690941084" expanded="false" signature="11007:11013" ph=" " />
+                <marker date="1497690941084" expanded="true" signature="11168:11344" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="11213:11231" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="11232:11306" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="11282:11290" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="11409:12925" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="11433:12197" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="11459:12169" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="11508:11717" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="11604:11700" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="11817:11933" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="11881:11916" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="12018:12128" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="12080:12111" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="12243:12891" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="12269:12878" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="12351:12385" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="12461:12863" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="12511:12842" ph="..." />
+                <marker date="1497690941084" expanded="true" signature="13024:13459" ph="..." />
               </folding>
             </state>
           </provider>
@@ -116,8 +105,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/works/blog/2016-05-18-Why_I_found_AaVv.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="340">
-                <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <first_editor relative-caret-position="561">
+                <caret line="33" column="78" lean-forward="false" selection-start-line="33" selection-start-column="72" selection-end-line="33" selection-end-column="78" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -137,6 +126,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="2015-07-10-la-memoria-si-fa-carne.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="325">
+                <caret line="54" column="49" lean-forward="false" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="_footer_scripts.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/_footer_scripts.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -147,7 +151,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/pages-root-folder/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
@@ -282,10 +286,10 @@
         <option value="$PROJECT_DIR$/_posts/works/2012-09-15-belgian-journal.md" />
         <option value="$PROJECT_DIR$/_posts/works/2013-07-10-via-Markelbach.md" />
         <option value="$PROJECT_DIR$/_posts/works/2015-02-14-Time-Capsule-Josaphat.md" />
-        <option value="$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md" />
         <option value="$PROJECT_DIR$/pages/redirected_page2.md" />
         <option value="$PROJECT_DIR$/_data/navigation.yml" />
         <option value="$PROJECT_DIR$/_posts/works/blog/2016-05-18-Why_I_found_AaVv.md" />
+        <option value="$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md" />
       </list>
     </option>
   </component>
@@ -388,40 +392,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="epsilon.martasmaldone.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="epsilon.martasmaldone.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="epsilon.martasmaldone.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="epsilon.martasmaldone.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../aavv.io" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../aavv.io/members.html" />
     <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
   </component>
   <component name="RecentsManager">
@@ -526,13 +502,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496059607952</updated>
-    </task>
-    <task id="LOCAL-00050" summary="osaka eki change">
-      <created>1496394789910</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1496394789911</updated>
     </task>
     <task id="LOCAL-00051" summary="osaka eki change">
       <created>1496395032890</created>
@@ -870,7 +839,14 @@
       <option name="project" value="LOCAL" />
       <updated>1497308567330</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="changes text e varie">
+      <created>1497686808684</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1497686808685</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -878,10 +854,10 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41458333" sideWeight="0.49453977" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875144" sideWeight="0.5052083" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32809225" sideWeight="0.5072917" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.49375" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32809225" sideWeight="0.49479166" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32809225" sideWeight="0.49270833" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
@@ -981,7 +957,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/_wordpress/2006-05-01-kunsthaus-tacheles-berlin.md" />
     <entry file="file://$PROJECT_DIR$/_posts/_wordpress/2007-06-04-il-cinema-ferrari.md" />
     <entry file="file://$PROJECT_DIR$/_posts/_wordpress/2008-10-08-mccloud.md" />
     <entry file="file://$PROJECT_DIR$/_posts/_wordpress/2008-04-18-souk-habous_casablanca.md" />
@@ -1253,19 +1228,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="391">
-            <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/works/2017-05-30-Ōsaka-eki.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1292,37 +1254,37 @@
         <state relative-caret-position="376">
           <caret line="408" column="57" lean-forward="false" selection-start-line="408" selection-start-column="57" selection-end-line="408" selection-end-column="57" />
           <folding>
-            <marker date="1497686722828" expanded="true" signature="6712:7164" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="7292:7475" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="7514:11138" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="7550:11104" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="7724:11096" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="7769:8062" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="7894:8053" ph="..." />
-            <marker date="1497686722828" expanded="false" signature="8015:8021" ph=" " />
-            <marker date="1497686722828" expanded="true" signature="8107:8161" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="10874:11080" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="10891:11071" ph="..." />
-            <marker date="1497686722828" expanded="false" signature="11033:11039" ph=" " />
-            <marker date="1497686722828" expanded="true" signature="11194:11370" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="11239:11257" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="11258:11332" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="11308:11316" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="11435:12951" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="11459:12223" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="11485:12195" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="11534:11743" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="11630:11726" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="11843:11959" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="11907:11942" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="12044:12154" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="12106:12137" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="12269:12917" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="12295:12904" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="12377:12411" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="12487:12889" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="12537:12868" ph="..." />
-            <marker date="1497686722828" expanded="true" signature="13050:13485" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="6712:7164" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="7292:7475" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="7514:11112" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="7550:11078" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="7724:11070" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="7769:8062" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="7894:8053" ph="..." />
+            <marker date="1497690941084" expanded="false" signature="8015:8021" ph=" " />
+            <marker date="1497690941084" expanded="true" signature="8107:8161" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="10848:11054" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="10865:11045" ph="..." />
+            <marker date="1497690941084" expanded="false" signature="11007:11013" ph=" " />
+            <marker date="1497690941084" expanded="true" signature="11168:11344" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="11213:11231" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="11232:11306" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="11282:11290" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="11409:12925" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="11433:12197" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="11459:12169" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="11508:11717" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="11604:11700" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="11817:11933" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="11881:11916" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="12018:12128" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="12080:12111" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="12243:12891" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="12269:12878" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="12351:12385" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="12461:12863" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="12511:12842" ph="..." />
+            <marker date="1497690941084" expanded="true" signature="13024:13459" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1374,19 +1336,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/blog/2016-05-18-Why_I_found_AaVv.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="340">
-            <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/_footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-384">
@@ -1403,11 +1352,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../aavv.io/members.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/pages-root-folder/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="51">
             <caret line="3" column="48" lean-forward="false" selection-start-line="2" selection-start-column="49" selection-end-line="3" selection-end-column="48" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/blog/2016-05-18-Why_I_found_AaVv.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="561">
+            <caret line="33" column="78" lean-forward="false" selection-start-line="33" selection-start-column="72" selection-end-line="33" selection-end-column="78" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="325">
+            <caret line="54" column="49" lean-forward="false" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
             <folding />
           </first_editor>
           <second_editor>

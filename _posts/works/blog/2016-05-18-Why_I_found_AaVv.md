@@ -1,5 +1,5 @@
 ---
-layout:     page-fullwidth
+layout:     page
 title:      Why I found Aa.Vv.
 author:     Marta Smaldone
 tags: 		transmedia tech art network
