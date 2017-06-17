@@ -20,10 +20,10 @@ widget2:
  text: 'Le portrait des époux &shy;<em>Arnolfini de Jan Van Eyck,</em>qui date 1434 montre la condition d’un couple de migrantes toscanes qui habitait en Belgique. Bien évidement le couple appartenait a une classe sociale haute
 pour confier au peintre flamand leur portrait.Je reprend avec ironie cette œuvre comme une référence, comme pour créer une continuité. '
 widget3:
- title: "Time Caspsule Josaphat"
+ title: "Why I buried a Time Capsule"
  url: 'works/Time-Capsule-Josaphat/'
  image: 04.jpg
- text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+ text: '<em>Time Caspsule Josaphat</em> On February 14, 2015 I buried a temporal capsule under the fallow Josaphat, in Brussels. It will remain buried for 25 years. It can not be recovered until the year 2040.'
 # Use the call for action to show a button on the frontpage
 #
 # Use the call for action to show a button on the frontpage
