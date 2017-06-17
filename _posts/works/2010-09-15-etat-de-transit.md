@@ -10,7 +10,7 @@ tags:
     - projects
 header: no
 image:
-   thumb: "02.jpg"
+   thumb: "ETAT_TR_00001-thumb.jpg"
 gallery:
     - image_url: ETAT_TR_00001.jpg
     #caption: generated caption for ETAT_TR_00001.jpg 
