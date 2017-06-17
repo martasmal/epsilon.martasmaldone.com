@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3064bf95-ee83-40d8-8fab-85efeb3416d0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/fisherman.jpg" afterPath="$PROJECT_DIR$/images/fisherman.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/pages-root-folder/index.md" afterPath="$PROJECT_DIR$/pages/pages-root-folder/index.md" />
     </list>
@@ -123,12 +124,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/pages-root-folder/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="408">
-                <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+              <first_editor relative-caret-position="153">
+                <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -138,18 +139,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2010-09-15-etat-de-transit.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/works/2010-09-15-etat-de-transit.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="170">
-                <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="10" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
+      <file leaf-file-name="fisherman.jpg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/images/fisherman.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -310,57 +303,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="epsilon.martasmaldone.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="epsilon.martasmaldone.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages-root-folder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="epsilon.martasmaldone.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="epsilon.martasmaldone.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_posts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="works" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="epsilon.martasmaldone.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="epsilon.martasmaldone.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_posts" />
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -474,13 +417,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496059607952</updated>
-    </task>
-    <task id="LOCAL-00057" summary="post right page changes">
-      <created>1496400920997</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1496400920998</updated>
     </task>
     <task id="LOCAL-00058" summary="atom.xml">
       <created>1496401087515</created>
@@ -818,7 +754,14 @@
       <option name="project" value="LOCAL" />
       <updated>1497711124878</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="insert text homepage">
+      <created>1497712458547</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1497712458547</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -894,7 +837,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="config.yml upd url" />
     <MESSAGE value="index.md change settings" />
     <MESSAGE value="change portfolio.md" />
     <MESSAGE value="osaka eki change" />
@@ -919,7 +861,8 @@
     <MESSAGE value="changes text e varie" />
     <MESSAGE value="insert text memoria" />
     <MESSAGE value="insert text time capsule" />
-    <option name="LAST_COMMIT_MESSAGE" value="insert text time capsule" />
+    <MESSAGE value="insert text homepage" />
+    <option name="LAST_COMMIT_MESSAGE" value="insert text homepage" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -930,7 +873,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/_wordpress/2007-06-04-il-cinema-ferrari.md" />
     <entry file="file://$PROJECT_DIR$/_posts/_wordpress/2008-10-08-mccloud.md" />
     <entry file="file://$PROJECT_DIR$/_posts/_wordpress/2008-04-18-souk-habous_casablanca.md" />
     <entry file="file://$PROJECT_DIR$/_posts/_wordpress/2008-11-15-asilah-2.md" />
@@ -1324,14 +1266,19 @@
     <entry file="file://$PROJECT_DIR$/pages/pages-root-folder/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="408">
-            <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+          <first_editor relative-caret-position="153">
+            <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
             <folding />
           </first_editor>
           <second_editor>
             <js_state />
           </second_editor>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/fisherman.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>

@@ -8,7 +8,7 @@ layout: frontpage
 header: no
 widget1:
   title: "Osaka-eki"
-  url: 'http://epsilon.martasmaldone.com//design/%C5%8Csaka-eki/'
+  url: '/works/Ōsaka-eki/'
   text: '<em>Ōsaka-eki</em> Snippet of larger project on Japan<br/>1. Japan :)<br/>2. Japan&#39;Japan<br/>3. Japan <a href="https://vimeo.com/219274698">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
   video: '<div class="flex-video widescreen vimeo">
   <iframe src="http://player.vimeo.com/video/219274698" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
