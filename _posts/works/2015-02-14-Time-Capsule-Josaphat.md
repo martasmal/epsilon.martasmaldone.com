@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 subheadline: transmedia project
 title:  "Time Capsule Josaphat"
 teaser: ""
@@ -21,10 +21,11 @@ author: marta
 show_meta: false
 ---
 
-<strong>Time Capsule Josaphat</strong> est une action, un happening, une mémoire, un lieu.
+<strong>Time Capsule Josaphat</strong>
+est une action, un happening, une mémoire, un lieu.
 Time Capsule Josaphat est une œuvre de sauvegarde collective de biens et d’informations, une trace pour le futur qui marque une connexion établie dans le présent.
 L’action restera liée à la mémoire du lieu; elle sera soit une rupture soit une initiation du lieu et dans le lieu. Une autre valeur à l’espace collectif.
-Le jour 14 février une capsule temporelle sera enterrée sous la friche Josaphat, à Schaerbeek. Elle restera enterrée pour 25 ans. Elle ne pourra pas être récupérée avant l’année 2040.
+Le jour 14 février une capsule temporelle a été enterrée sous la friche Josaphat, à Schaerbeek. Elle restera enterrée pour 25 ans. Elle ne pourra pas être récupérée avant l’année 2040.
 La capsule gardera les attentes, les espoirs sur le futur de la friche, un témoignage, un message, une photographie, un objet cher destiné aux générations futures.
 
 
