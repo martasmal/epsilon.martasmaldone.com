@@ -20,6 +20,15 @@ image:
 author: marta
 show_meta: false
 ---
+<strong>Citoyenneté</strong> Ma maison est où je suis
+
+
+Le portrait des époux Arnolfini de Jan Van Eyck, qui date 1434 montre la condition d’un couple de migrantes toscanes qui habitait en Belgique.
+Bien évidement le couple appartenait a une classe sociale haute pour confier au peintre flamand leur portrait.
+Je reprend avec ironie cette œuvre comme une référence, comme pour créer une continuité.
+Comme madame Arnolfini en état de grossesse, je me photographie avec mon compagnon, mon chien, les oranges, le miroir.
+C’est une manière de documenter que ma maison est ici, où je suis maintenant et que je suis une citoyenne belge.
+
 
 <strong>Mémoire</strong> La mémoire se fait chair
 
