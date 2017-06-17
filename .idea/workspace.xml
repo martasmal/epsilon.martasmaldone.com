@@ -102,7 +102,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="187">
-                <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+                <caret line="11" column="97" lean-forward="false" selection-start-line="11" selection-start-column="97" selection-end-line="11" selection-end-column="97" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -488,13 +488,6 @@
       <option name="presentableId" value="Default" />
       <updated>1496059607952</updated>
     </task>
-    <task id="LOCAL-00060" summary="atom.xml">
-      <created>1496401395424</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1496401395424</updated>
-    </task>
     <task id="LOCAL-00061" summary="atom.xml">
       <created>1496423251502</created>
       <option name="number" value="00061" />
@@ -831,7 +824,14 @@
       <option name="project" value="LOCAL" />
       <updated>1497715963219</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="insert text homepage">
+      <created>1497716046637</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1497716046637</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1357,7 +1357,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="187">
-            <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+            <caret line="11" column="97" lean-forward="false" selection-start-line="11" selection-start-column="97" selection-end-line="11" selection-end-column="97" />
             <folding />
           </first_editor>
           <second_editor>
