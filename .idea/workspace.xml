@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3064bf95-ee83-40d8-8fab-85efeb3416d0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/aavvio.jpeg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/_sidebar.html" afterPath="$PROJECT_DIR$/_includes/_sidebar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/works/2017-05-30-Ōsaka-eki.md" afterPath="$PROJECT_DIR$/_posts/works/2017-05-30-Ōsaka-eki.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/works/blog/2016-05-18-Why_I_found_AaVv.md" afterPath="$PROJECT_DIR$/_posts/works/blog/2016-05-18-Why_I_found_AaVv.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/pages-root-folder/index.md" afterPath="$PROJECT_DIR$/pages/pages-root-folder/index.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2016-05-18-Why_I_found_AaVv.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2016-05-18-Why_I_found_AaVv.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/works/blog/2016-05-18-Why_I_found_AaVv.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
@@ -101,12 +97,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/pages-root-folder/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="272">
-                <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+              <first_editor relative-caret-position="187">
+                <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -492,13 +488,6 @@
       <option name="presentableId" value="Default" />
       <updated>1496059607952</updated>
     </task>
-    <task id="LOCAL-00059" summary="atom.xml">
-      <created>1496401319195</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1496401319195</updated>
-    </task>
     <task id="LOCAL-00060" summary="atom.xml">
       <created>1496401395424</created>
       <option name="number" value="00060" />
@@ -835,7 +824,14 @@
       <option name="project" value="LOCAL" />
       <updated>1497713924261</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="insert text homepage">
+      <created>1497715963218</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1497715963219</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1344,11 +1340,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/pages-root-folder/index.md">
+    <entry file="file://$PROJECT_DIR$/_posts/works/blog/2016-05-18-Why_I_found_AaVv.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="272">
-            <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <first_editor relative-caret-position="126">
+            <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
             <folding />
           </first_editor>
           <second_editor>
@@ -1357,11 +1353,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/blog/2016-05-18-Why_I_found_AaVv.md">
+    <entry file="file://$PROJECT_DIR$/pages/pages-root-folder/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="126">
-            <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
             <folding />
           </first_editor>
           <second_editor>
