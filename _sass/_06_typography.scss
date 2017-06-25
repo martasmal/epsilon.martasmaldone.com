@@ -30,15 +30,15 @@ a:link {
 }
 
 a:visited {
-    border-bottom: $grey-2;
+    border-bottom: $ci-2;
 }
 
 a:hover {
-    color: darken( $ci-1, 10% );
+    color: darken( $ci-5, 10% );
 }
 
 a:focus {
-    color: lighten( $ci-1, 20% );
+    color: lighten( $ci-3, 20% );
 }
 
 a:active {
@@ -72,7 +72,7 @@ p a.button,
 .button,
 .button:hover {
     border: 0;
-    color: #fff;
+    color: #91b2d1;
 }
 p.button a {
     border: 0;
@@ -274,6 +274,7 @@ cite {
 
 button, .button {
     letter-spacing: 1px;
+     background-color:#fff;
 }
 
 mark {
