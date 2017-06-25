@@ -38,6 +38,5 @@
 #  url: "/search/"
 
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+# - title: "Contact"
+#   url: "/contact/"
