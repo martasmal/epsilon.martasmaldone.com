@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3064bf95-ee83-40d8-8fab-85efeb3416d0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/foundation-components/_clearing.scss" afterPath="$PROJECT_DIR$/_sass/foundation-components/_clearing.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -432,13 +431,6 @@
       <option name="presentableId" value="Default" />
       <updated>1496059607952</updated>
     </task>
-    <task id="LOCAL-00074" summary="osaka eki cambio thumbnail url">
-      <created>1496433223131</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1496433223131</updated>
-    </task>
     <task id="LOCAL-00075" summary="osaka eki cambio thumbnail url">
       <created>1496433410946</created>
       <option name="number" value="00075" />
@@ -775,7 +767,14 @@
       <option name="project" value="LOCAL" />
       <updated>1499669753305</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="captions in etat transit">
+      <created>1499700160166</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1499700160166</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="ToolWindowManager">
