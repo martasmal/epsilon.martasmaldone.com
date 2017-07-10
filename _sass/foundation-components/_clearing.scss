@@ -16,7 +16,7 @@ $clearing-carousel-bg: rgba(51,51,51,0.8) !default;
 $clearing-img-bg: $clearing-bg !default;
 
 // We use these to style the close button
-$clearing-close-color: $iron !default;
+$clearing-close-color: #6cafcc !default;
 $clearing-close-size: 30px !default;
 
 // We use these to style the arrows
@@ -24,7 +24,7 @@ $clearing-arrow-size: 12px !default;
 $clearing-arrow-color: $clearing-close-color !default;
 
 // We use these to style captions
-$clearing-caption-font-color: $iron !default;
+$clearing-caption-font-color: black !default;
 $clearing-caption-font-size: 0.875em !default;
 $clearing-caption-padding: 10px 30px 20px !default;
 
@@ -228,7 +228,8 @@ $clearing-carousel-thumb-active-border: 1px solid rgb(255,255,255) !default;
         }
 
         .visible-img {
-          background: $clearing-img-bg;
+
+          background: whitesmoke;
           overflow: hidden;
           height: $clearing-active-img-height;
         }
