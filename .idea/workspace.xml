@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3064bf95-ee83-40d8-8fab-85efeb3416d0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/authors.yml" afterPath="$PROJECT_DIR$/_data/authors.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/socialmedia.yml" afterPath="$PROJECT_DIR$/_data/socialmedia.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,8 +76,8 @@
       <file leaf-file-name="socialmedia.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_data/socialmedia.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+            <state relative-caret-position="306">
+              <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -437,13 +435,6 @@
       <option name="presentableId" value="Default" />
       <updated>1496059607952</updated>
     </task>
-    <task id="LOCAL-00077" summary="osaka eki cambio thumbnail url">
-      <created>1496433717861</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1496433717861</updated>
-    </task>
     <task id="LOCAL-00078" summary="osaka eki cambio thumbnail url">
       <created>1496433930406</created>
       <option name="number" value="00078" />
@@ -780,7 +771,14 @@
       <option name="project" value="LOCAL" />
       <updated>1499812806166</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="aggiunta font icons">
+      <created>1500182071318</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1500182071319</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -836,7 +834,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="post right page changes" />
     <MESSAGE value="atom.xml" />
     <MESSAGE value="osaka-eki formattazione text sbagliata" />
     <MESSAGE value="osaka eki cambio thumbnail url" />
@@ -861,7 +858,8 @@
     <MESSAGE value="change css homepage link" />
     <MESSAGE value="captions in etat transit" />
     <MESSAGE value="captions in foto projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="captions in foto projects" />
+    <MESSAGE value="aggiunta font icons" />
+    <option name="LAST_COMMIT_MESSAGE" value="aggiunta font icons" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1273,8 +1271,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/socialmedia.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="306">
+          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding />
         </state>
       </provider>

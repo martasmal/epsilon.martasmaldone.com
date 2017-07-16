@@ -1,7 +1,7 @@
 - name: E-mail
   url: mailto:contact@martasmaldone.com
   class: icon-mail
-  title: "contact me"
+  title: "contact@martasmaldone.com"
 
 - name: Vimeo
   url: https://vimeo.com/martasmaldone
@@ -16,7 +16,7 @@
 - name: Instagram
   url: http://instagram.com/
   class: icon-instagram
-  title: ""
+  title: "instagram"
 
 - name: GitHub
   url: http://github.com/MartaSmal
