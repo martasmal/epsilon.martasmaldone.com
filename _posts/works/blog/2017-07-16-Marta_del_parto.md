@@ -12,7 +12,6 @@ image:
     homepage: martadelparto.jpeg
     caption: marta del parto
     caption_url: https://www.martasmaldone.com
-mediaplayer: true
 ---
 <!-- Start Writing Below in Markdown -->
 
