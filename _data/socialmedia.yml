@@ -1,3 +1,23 @@
+- name: E-mail
+  url: mailto:contact@martasmaldone.com
+  class: icon-mail
+  title: "contact me"
+
+- name: Vimeo
+  url: https://vimeo.com/martasmaldone
+  class: icon-vimeo
+  title: "My videos on Vimeo ;-)"
+
+- name: Twitter
+  url: http://twitter.com/MartaSmaldone
+  class: icon-twitter
+  title: "My Twitts"
+
+- name: Instagram
+  url: http://instagram.com/
+  class: icon-instagram
+  title: ""
+
 - name: GitHub
   url: http://github.com/MartaSmal
   class: icon-github
@@ -7,11 +27,6 @@
 # url: http://www.youtube.com/PhlowMedia
 #  class: icon-youtube
 #  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
-
-- name: Twitter
-  url: http://twitter.com/MartaSmaldone
-  class: icon-twitter
-  title: "ultimi twitt di MartaSmaldone"
 
 #- name: Mixcloud
 # url: http://www.mixcloud.com/phlow/
@@ -33,10 +48,6 @@
 #   class: icon-soundcloud
 #   title: ""
 
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/
