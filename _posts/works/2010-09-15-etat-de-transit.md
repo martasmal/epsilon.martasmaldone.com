@@ -11,6 +11,8 @@ tags:
 header: no
 image:
    thumb: "ETAT_TR_00001-thumb.jpg"
+
+
 gallery:
     - image_url: ETAT_TR_00001.jpg
       caption: Prince, Casablanca, august 2008
@@ -47,16 +49,19 @@ gallery:
 
 
 ---
-Transit is a place where people, goods and knowledge of itinerary pass through.
+
+
+---
+<h3>Transit is a place where people, goods and knowledge of itinerary pass through.</h3>
 Morocco, by its geographical position, is a transit country for migrants from sub-Saharan Africa wishing to travel to Europe.
 Following the tightening of border controls by the European Union, migrants are largely stuck to its doors.
 With longer duration of transit, migrants have adapted their project and their daily to the Moroccan realities, keeping the hope of starting.
 
-<small>This Project has been funded by Ong C.N.C.D. based in Brussels. The exhibition has been shown at 'Casa del arte' in Casablanca in november 2008, at 'Maison de Amerique Latine' in Brussels in december 2008 and throughout the Belgium in 2009.</small>
 
 ---
 {% include gallery %}
 
+<small>This Project has been funded by Ong C.N.C.D. based in Brussels. The exhibition has been shown at 'Casa del arte' in Casablanca in november 2008, at 'Maison de Amerique Latine' in Brussels in december 2008 and throughout the Belgium in 2009.</small>
 
 
 

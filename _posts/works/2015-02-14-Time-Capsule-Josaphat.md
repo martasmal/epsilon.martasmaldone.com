@@ -15,16 +15,19 @@ header: no
 image:
    thumb: "04.jpg"
    title: 04.jpg
-   caption: time capsule happening
-   caption_url: http://blog.martasmaldone.eu/index.php/time-capsule-josaphat-bxl_-14-02-2015friche-josaphat/
-author: marta
+   caption: Time Capsule Happening@2015
+   caption_url: http://www.martasmaldone.com//works/Time-Capsule-Josaphat/
+author: Marta
 show_meta: false
+---
+
+
 ---
 
 <strong>Time Capsule Josaphat</strong>
 est une action, un happening, une mémoire, un lieu.
 Time Capsule Josaphat est une œuvre de sauvegarde collective de biens et d’informations, une trace pour le futur qui marque une connexion établie dans le présent.
-L’action restera liée à la mémoire du lieu; elle sera soit une rupture soit une initiation du lieu et dans le lieu. Une autre valeur à l’espace collectif.
+L’action restera liée à la mémoire du lieu; elle sera soit une rupture soi@t une initiation du lieu et dans le lieu. Une autre valeur à l’espace collectif.
 Le jour 14 février 2015 j'ai enterrée une capsule temporelle sous la friche Josaphat, à Bruxelles. Elle restera enterrée pour 25 ans. Elle ne pourra pas être récupérée avant l’année 2040.
 La capsule gardera les attentes, les espoirs sur le futur de la friche, un témoignage, un message, une photographie, un objet cher destiné aux générations futures.
 
