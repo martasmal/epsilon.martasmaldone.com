@@ -43,6 +43,8 @@ Je me situe entre souvenirs personnelles et mémoire collective, je veux soulign
 Filmer ma propre personne signifie m’éloigner légèrement de la réalité pour la regarder, et ainsi être plus présente. Je me demande si on n’est pas plus universel en restant dans le particulier, si en écrivant avec rigueur et en détail, on arrive à transcender notre propre personne, notre propre vie.
 
 
+
+
 <iframe src="https://player.vimeo.com/video/93275523?color=26c68b&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
