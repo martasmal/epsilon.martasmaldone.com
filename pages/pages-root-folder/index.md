@@ -20,7 +20,7 @@ widget2:
  text: 'Le portrait des époux &shy;<em>Arnolfini de Jan Van Eyck</em> date 1434 et montre la condition d’un couple de migrantes toscanes qui habitait en Belgique. Je reprend avec ironie cette œuvre comme une référence, comme pour créer une continuité. '
 widget3:
  title: "I buried a Time Capsule"
- url: 'works/Time-Capsule-Josaphat/'
+ url: '/works/Time-Capsule-Josaphat/'
  image: 04.jpg
  text: '<em>On 14 February 2015 I buried a time capsule under the Josaphat terrain, in Brussels.</em> It will remain buried for 25 years. It can not be recovered until the year 2040.'
 # Use the call for action to show a button on the frontpage
