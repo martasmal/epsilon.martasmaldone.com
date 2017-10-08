@@ -42,7 +42,7 @@ L’idée d’avoir eu une histoire, de pouvoir la raconter et d’en recevoir u
 Je me situe entre souvenirs personnelles et mémoire collective, je veux souligner que même les souvenirs les plus intimes ne sont pas le reflet d’une mémoire strictement privée mais plutôt le projet de prendre soi-même comme sujet d’étude pour mieux comprendre l’Humain en général et la Mémoire en particulier.
 Filmer ma propre personne signifie m’éloigner légèrement de la réalité pour la regarder, et ainsi être plus présente. Je me demande si on n’est pas plus universel en restant dans le particulier, si en écrivant avec rigueur et en détail, on arrive à transcender notre propre personne, notre propre vie.
 
-<p></p>
+<p>  .  </p>
 
 <iframe src="https://player.vimeo.com/video/93275523?color=26c68b&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
