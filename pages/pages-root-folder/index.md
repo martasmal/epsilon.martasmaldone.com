@@ -33,10 +33,10 @@ widget4:
 widget5:
 title: "Il dottore della peste"
  url: '/works/Il-dottore-della-peste/'
+ text:/'dottore'
  video: '<div class="flex-video widescreen vimeo">
  <iframe src="https://player.vimeo.com/video/44689169" width="640" height="362" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
  </div>'
- text:/'
 widget6:
 title: "Areta in utero"
 url: '/works/Areta-in-utero/'
