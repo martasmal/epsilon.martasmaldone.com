@@ -23,6 +23,12 @@ widget3:
  url: '/works/Time-Capsule-Josaphat/'
  image: 04.jpg
  text: '<em>On 14 February 2015 I buried a time capsule under the Josaphat terrain, in Brussels.</em> It will remain buried for 25 years. It can not be recovered until the year 2040.'
+widget4:
+ title: "Marta del parto"
+ url: '/works/Marta-del-parto/'
+ image: martadelparto.jpeg
+ text: 'Marta del parto bla bla..'
+ 
 # Use the call for action to show a button on the frontpage
 #
 # Use the call for action to show a button on the frontpage
