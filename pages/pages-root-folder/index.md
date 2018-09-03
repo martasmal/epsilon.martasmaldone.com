@@ -16,7 +16,7 @@ widget1:
 widget2:
  title: "Ōsaka-eki"
  url: '/works/Ōsaka-eki/'
- text: '<em>Snippet of larger project on</em> <br/>1. Empire<br/>2. of<br/>3. signs<br/>4. Japan<br/>5. ...'
+ text: '<em>Snippet of larger project on the Empire of signs.</em>'
  video: '<div class="flex-video widescreen vimeo">
 <iframe src="https://player.vimeo.com/video/219274698" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>'
@@ -24,12 +24,12 @@ widget3:
  title: "La memoria si fa carne"
  url: '/works/la-memoria-si-fa-carne/'
  image: arnolfini.jpg
- text: 'Le portrait des époux &shy;<em>Arnolfini de Jan Van Eyck</em> date 1434 et montre la condition d’un couple de migrantes toscanes qui habitait en Belgique. Je reprend avec ironie cette œuvre comme une référence, comme pour créer une continuité. '
+ text: '<em>Le portrait des époux &shy;<em>Arnolfini de Jan Van Eyck</em> date 1434 et montre la condition d’un couple de migrantes toscanes qui habitait en Belgique. Je reprend avec ironie cette œuvre comme une référence, comme pour créer une continuité.</em> '
 widget4:
  title: "I buried a Time Capsule"
  url: '/works/Time-Capsule-Josaphat/'
  image: 04.jpg
- text: '<em>On 14 February 2015 I buried a time capsule under the Josaphat terrain, in Brussels.</em> It will remain buried for 25 years. It can not be recovered until the year 2040.'
+ text: '<em>On 14 February 2015 I buried a time capsule under the Josaphat terrain, in Brussels. It will remain buried for 25 years. It can not be recovered until the year 2040.</em>'
 widget6:
  title: "Il dottore della peste"
  url: '/works/Il-dottore-della-peste/'
