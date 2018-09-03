@@ -9,8 +9,10 @@ header: no
 widget1:
  title: "Marta del parto"
  url: '/works/Marta-del-parto/'
- image: martadelparto.jpeg
  text: 'Marta del parto bla bla..'
+ video: '<div class="flex-video widescreen vimeo">
+ <iframe src="https://player.vimeo.com/video/273497960" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>'
 widget2:
   title: "Ōsaka-eki"
   url: '/works/Ōsaka-eki/'
