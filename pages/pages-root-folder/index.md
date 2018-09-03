@@ -14,11 +14,11 @@ widget1:
  <iframe src="https://player.vimeo.com/video/273497960" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>'
 widget2:
-  title: "Ōsaka-eki"
-  url: '/works/Ōsaka-eki/'
-  text: '<em>Snippet of larger project on</em> <br/>1. Empire<br/>2. of<br/>3. signs<br/>4. Japan<br/>5. ...'
-  video: '<div class="flex-video widescreen vimeo">
-  <iframe src="http://player.vimeo.com/video/219274698" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+ title: "Ōsaka-eki"
+ url: '/works/Ōsaka-eki/'
+ text: '<em>Snippet of larger project on</em> <br/>1. Empire<br/>2. of<br/>3. signs<br/>4. Japan<br/>5. ...'
+ video: '<div class="flex-video widescreen vimeo">
+ <iframe src="http://player.vimeo.com/video/219274698" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>'
 widget3:
  title: "La memoria si fa carne"
@@ -33,7 +33,7 @@ widget4:
 widget5:
 title: "Il dottore della peste"
  url: '/works/Il-dottore-della-peste/'
- text:/'dottore'
+ text: 'dottore'
  video: '<div class="flex-video widescreen vimeo">
  <iframe src="https://player.vimeo.com/video/44689169" width="640" height="362" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
  </div>'
