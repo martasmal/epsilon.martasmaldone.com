@@ -17,6 +17,7 @@ video: '<div class="flex-video widescreen vimeo">
 widget2:
 title: "Ōsaka-eki"
 url: '/works/Ōsaka-eki/'
+image: osaka_eki.jpg
 text: '<em>Snippet of larger project on</em> <br/>1. Empire<br/>2. of<br/>3. signs<br/>4. Japan<br/>5. ...'
 video: '<div class="flex-video widescreen vimeo">
 <iframe src="http://player.vimeo.com/video/219274698" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
