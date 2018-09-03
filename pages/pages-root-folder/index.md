@@ -31,18 +31,18 @@ widget4:
  image: 04.jpg
  text: '<em>On 14 February 2015 I buried a time capsule under the Josaphat terrain, in Brussels.</em> It will remain buried for 25 years. It can not be recovered until the year 2040.'
 widget5:
-title: "Il dottore della peste"
+ title: "Il dottore della peste"
  url: '/works/Il-dottore-della-peste/'
  text: 'dottore'
  video: '<div class="flex-video widescreen vimeo">
- <iframe src="https://player.vimeo.com/video/44689169" width="640" height="362" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+ <iframe src="https://player.vimeo.com/video/44689169" width="400" height="225" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
  </div>'
 widget6:
-title: "Areta in utero"
-url: '/works/Areta-in-utero/'
-text: 'Areta in utero'
-video: '<div class="flex-video widescreen vimeo">
- <iframe src="https://player.vimeo.com/video/93275523" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+ title: "Areta in utero"
+ url: '/works/Areta-in-utero/'
+ text: 'Areta in utero'
+ video: '<div class="flex-video widescreen vimeo">
+ <iframe src="https://player.vimeo.com/video/93275523" width="400" height="225" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>'
 # Use the call for action to show a button on the frontpage
 #
