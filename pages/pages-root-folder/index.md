@@ -30,9 +30,18 @@ widget4:
  url: '/works/Time-Capsule-Josaphat/'
  image: 04.jpg
  text: '<em>On 14 February 2015 I buried a time capsule under the Josaphat terrain, in Brussels.</em> It will remain buried for 25 years. It can not be recovered until the year 2040.'
-
- 
- 
+widget5:
+title: "Il dottore della peste"
+ url: '/works/Il-dottore-della-peste/' 
+ image: arnolfini.jpg
+ text:/'
+widget6:
+title: "Areta in utero"
+url:  
+text: 'Areta in utero'
+video: '<div class="flex-video widescreen vimeo">
+ <iframe src="https://player.vimeo.com/video/93275523" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>'
 # Use the call for action to show a button on the frontpage
 #
 # Use the call for action to show a button on the frontpage
