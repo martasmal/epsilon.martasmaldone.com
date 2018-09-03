@@ -7,27 +7,31 @@
 layout: frontpage
 header: no
 widget1:
+ title: "Marta del parto"
+ url: '/works/Marta-del-parto/'
+ image: martadelparto.jpeg
+ text: 'Marta del parto bla bla..'
+ video: '<div class="flex-video widescreen vimeo">
+  <iframe src="http://player.vimeo.com/video/219274698" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+widget2:
   title: "Ōsaka-eki"
   url: '/works/Ōsaka-eki/'
   text: '<em>Snippet of larger project on</em> <br/>1. Empire<br/>2. of<br/>3. signs<br/>4. Japan<br/>5. ...'
   video: '<div class="flex-video widescreen vimeo">
   <iframe src="http://player.vimeo.com/video/219274698" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>'
-widget2:
+widget3:
  title: "La memoria si fa carne"
  url: '/works/la-memoria-si-fa-carne/'
  image: arnolfini.jpg
  text: 'Le portrait des époux &shy;<em>Arnolfini de Jan Van Eyck</em> date 1434 et montre la condition d’un couple de migrantes toscanes qui habitait en Belgique. Je reprend avec ironie cette œuvre comme une référence, comme pour créer une continuité. '
-widget3:
+widget4:
  title: "I buried a Time Capsule"
  url: '/works/Time-Capsule-Josaphat/'
  image: 04.jpg
  text: '<em>On 14 February 2015 I buried a time capsule under the Josaphat terrain, in Brussels.</em> It will remain buried for 25 years. It can not be recovered until the year 2040.'
-widget4:
- title: "Marta del parto"
- url: '/works/Marta-del-parto/'
- image: martadelparto.jpeg
- text: 'Marta del parto bla bla..'
+
+ 
  
 # Use the call for action to show a button on the frontpage
 #
