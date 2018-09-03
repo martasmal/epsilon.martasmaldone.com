@@ -44,6 +44,7 @@ text: 'Areta in utero'
 video: '<div class="flex-video widescreen vimeo">
  <iframe src="https://player.vimeo.com/video/93275523" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>'
+
 # Use the call for action to show a button on the frontpage
 #
 # Use the call for action to show a button on the frontpage
