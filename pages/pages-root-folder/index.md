@@ -9,7 +9,7 @@ header: no
 widget1:
  title: "Marta del parto"
  url: '/works/Marta-del-parto/'
- text: 'Marta del parto'
+ text: ''
  video: '<div class="flex-video widescreen vimeo">
 <iframe src="https://player.vimeo.com/video/273497960" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>'
@@ -40,7 +40,7 @@ widget6:
 widget5:
  title: "Areta in utero"
  url: '/works/Areta-in-utero/'
- text: 'Areta in utero'
+ text: ''
  video: '<div class="flex-video widescreen vimeo">
  <iframe src="https://player.vimeo.com/video/93275523" width="400" height="225" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>'
