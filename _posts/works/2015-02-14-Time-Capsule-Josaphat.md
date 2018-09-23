@@ -21,8 +21,7 @@ author: Marta
 show_meta: false
 ---
 
-
----
+New Blog Articles---
 
 <strong>Time Capsule Josaphat</strong>
 est une action, un happening, une mémoire, un lieu.
