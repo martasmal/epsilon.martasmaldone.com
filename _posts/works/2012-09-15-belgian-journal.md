@@ -1,6 +1,5 @@
 ---
 layout: page-fullwidth
-subheadline:  "photo project"
 title:  "Belgian journal"
 teaser: ""
 categories:

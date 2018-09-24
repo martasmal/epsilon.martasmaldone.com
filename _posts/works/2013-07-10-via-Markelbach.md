@@ -1,6 +1,5 @@
 ---
 layout: page-fullwidth
-subheadline:  "photo project"
 title:  "Via Markelbach"
 teaser: ""
 categories:

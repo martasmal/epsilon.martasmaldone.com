@@ -1,6 +1,5 @@
 ---
 layout: page-fullwidth
-subheadline:  "photo project"
 title:  "Etat de transit"
 teaser: "Transit migration in Morocco, 2008"
 categories:
