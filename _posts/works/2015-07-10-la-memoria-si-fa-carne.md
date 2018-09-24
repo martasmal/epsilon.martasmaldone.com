@@ -1,6 +1,5 @@
 ---
 layout: page
-subheadline: transmedia
 title:  "La memoria si fa carne"
 teaser: ""
 meta_teaser: ""

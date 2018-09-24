@@ -1,6 +1,5 @@
 ---
 layout: page-fullwidth
-subheadline: transmedia project
 title:  "Time Capsule Josaphat"
 teaser: ""
 meta_teaser: "This is an example of a beautiful aligned post in the middle. There is no sidebar to distract the reader. The difference to the Page-Template is, that you find meta-information at the bottom of the post."
