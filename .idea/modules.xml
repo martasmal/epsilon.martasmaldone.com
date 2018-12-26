@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../blog.martasmaldone.org/.idea/blog.martasmaldone.org.iml" filepath="$PROJECT_DIR$/../blog.martasmaldone.org/.idea/blog.martasmaldone.org.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/epsilon.martasmaldone.com.iml" filepath="$PROJECT_DIR$/.idea/epsilon.martasmaldone.com.iml" />
     </modules>
   </component>
