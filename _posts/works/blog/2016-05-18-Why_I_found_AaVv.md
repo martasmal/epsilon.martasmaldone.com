@@ -46,5 +46,4 @@ I mean a kind of experience that anyone unconnected with that medium can share, 
 _The acronym **Aa.Vv.** is the latin expression Autores Varii, various authors. Aa.Vv. is followed by .io domain extension, the result is the italian word ‘avvio’, which means start._
 
 
-[Original Post in Medium](https://ablog.aavv.io/why-i-found-aa-vv-cd6c35d94c70)
 
