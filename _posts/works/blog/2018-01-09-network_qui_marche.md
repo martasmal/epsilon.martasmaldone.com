@@ -48,7 +48,7 @@ trompe-oreille moderne.
 
 
 
-<h6>Description
+<h6>Description</h6>
 
 The installation is a network coordinated setup of 3D air visuals, in sync with audio
 stream. The setup is manageable remotely over network (wifi devices and hotspot).
@@ -64,14 +64,14 @@ capability will be not implemented.
 The video is programmed with lightworks and Unity and uploaded via the holografic
 device software suite.
 
-<h6>Equipment 
+<h6>Equipment</h6> 
 
 <ul>Holografic 3D high-led density, wifi controlled, device</ul> 
 <ul> Audio setup (wifi controlled, virtually invisible speakers, amplification)</ul> 
 <ul> Network infrastructure (wifi hotspot, internet access required, 4g modem where
 unavailable)</ul> 
 
-<h6>Requirements
+<h6>Requirements</h6>
 
 <ul> Internet access (optional)</ul>
 <ul> Roof/wall drilling (optional for outdoor seamless speakers)</ul>
