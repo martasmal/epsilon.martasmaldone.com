@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      
+title:      Network qui marche
 author:     Marta Smaldone
 tags: 		transmedia tech art network
 subtitle:  	project on going
@@ -11,7 +11,6 @@ thumb:      aavvio.jpeg
 <!-- Start Writing Below in Markdown -->
 
 
-**Network qui marche**
 
 ‘Network qui marche’ est une installation holographique et sonore, un point d’entrée d’un projet
 transmédia et une collaboration en cours.
@@ -49,7 +48,7 @@ trompe-oreille moderne.
 
 
 
-Description
+<h6>Description
 
 The installation is a network coordinated setup of 3D air visuals, in sync with audio
 stream. The setup is manageable remotely over network (wifi devices and hotspot).
@@ -65,19 +64,19 @@ capability will be not implemented.
 The video is programmed with lightworks and Unity and uploaded via the holografic
 device software suite.
 
-Equipment
+<h6>Equipment 
 
-● Holografic 3D high-led density, wifi controlled, device
-● Audio setup (wifi controlled, virtually invisible speakers, amplification)
-● Network infrastructure (wifi hotspot, internet access required, 4g modem where
-unavailable)
+<ul>Holografic 3D high-led density, wifi controlled, device</ul> 
+<ul> Audio setup (wifi controlled, virtually invisible speakers, amplification)</ul> 
+<ul> Network infrastructure (wifi hotspot, internet access required, 4g modem where
+unavailable)</ul> 
 
-Requirements
+<h6>Requirements
 
-● Internet access (optional)
-● Roof/wall drilling (optional for outdoor seamless speakers)
-● Window proximity
-
+<ul> Internet access (optional)</ul>
+<ul> Roof/wall drilling (optional for outdoor seamless speakers)</ul>
+<ul> Window proximity
+</ul> 
 
 
 
