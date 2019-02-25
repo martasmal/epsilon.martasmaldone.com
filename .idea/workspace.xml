@@ -4,10 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md" description="&lt;hr&gt;" line="32" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3064bf95-ee83-40d8-8fab-85efeb3416d0" name="Default" comment="eliminazione transmedia dai projets">
-      <change beforePath="$PROJECT_DIR$/.idea/epsilon.martasmaldone.com.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/epsilon.martasmaldone.com.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="3064bf95-ee83-40d8-8fab-85efeb3416d0" name="Default" comment="modifiche testo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/works/blog/2018-01-09-network_qui_marche.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/works/blog/2018-01-09-network_qui_marche.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,32 +20,45 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/frontpage.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2523">
-              <caret line="87" column="83" selection-start-line="87" selection-start-column="83" selection-end-line="87" selection-end-column="83" />
+        <entry file="file://$PROJECT_DIR$/_posts/works/2015-02-14-Time-Capsule-Josaphat.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="812">
+                <caret line="28" column="79" selection-start-line="28" selection-start-column="79" selection-end-line="28" selection-end-column="79" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/works/2015-02-14-Time-Capsule-Josaphat.md">
+        <entry file="file://$PROJECT_DIR$/_posts/works/blog/2016-05-18-Why_I_found_AaVv.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="58">
-                <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <first_editor relative-caret-position="1392">
+                <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
               </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/works/blog/2017-07-16-Marta_del_parto.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md">
+        <entry file="file://$PROJECT_DIR$/_posts/works/blog/2018-01-09-network_qui_marche.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="58">
-                <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <first_editor relative-caret-position="87">
+                <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
               </first_editor>
               <second_editor />
             </state>
@@ -54,10 +66,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/works/2017-05-30-Ōsaka-eki.md">
+        <entry file="file://$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="58">
+                <caret line="2" selection-start-line="2" selection-end-line="2" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -112,7 +126,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>email</find>
       <find>i</find>
       <find>ic</find>
       <find>ico</find>
@@ -142,6 +155,7 @@
       <find>marta del parto</find>
       <find>more_</find>
       <find>transmedia</find>
+      <find>why</find>
     </findStrings>
     <replaceStrings>
       <replace>works</replace>
@@ -152,6 +166,7 @@
       <dir>$PROJECT_DIR$/_posts/wordpress/_posts</dir>
       <dir>$PROJECT_DIR$/_posts/_wordpress</dir>
       <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/_posts</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -166,8 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/wordpress/_posts/2016-10-20-lana.md" />
-        <option value="$PROJECT_DIR$/_posts/wordpress/_posts/2016-04-12-hotel-room-_kyoto.md" />
         <option value="$PROJECT_DIR$/_posts/wordpress/_posts/2016-04-08-limpero-dei-segni.md" />
         <option value="$PROJECT_DIR$/_posts/wordpress/_posts/2005-08-10-villamare.md" />
         <option value="$PROJECT_DIR$/_posts/wordpress/_posts/2005-09-02-republika-hrvatska.md" />
@@ -182,7 +195,6 @@
         <option value="$PROJECT_DIR$/_site/info/index.html" />
         <option value="$PROJECT_DIR$/_posts/works/2013-07-10-via-Markelbach.md" />
         <option value="$PROJECT_DIR$/pages/redirected_page2.md" />
-        <option value="$PROJECT_DIR$/_posts/works/blog/2016-05-18-Why_I_found_AaVv.md" />
         <option value="$PROJECT_DIR$/_includes/_sidebar.html" />
         <option value="$PROJECT_DIR$/_sass/_07_layout.scss" />
         <option value="$PROJECT_DIR$/_sass/foundation-components/_dropdown.scss" />
@@ -217,6 +229,9 @@
         <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md" />
         <option value="$PROJECT_DIR$/_posts/works/2015-02-14-Time-Capsule-Josaphat.md" />
+        <option value="$PROJECT_DIR$/_posts/works/blog/2016-05-18-Why_I_found_AaVv.md" />
+        <option value="$PROJECT_DIR$/_posts/works/blog/network_qui_marche.md" />
+        <option value="$PROJECT_DIR$/_posts/works/blog/2018-01-09-network_qui_marche.md" />
       </list>
     </option>
   </component>
@@ -232,7 +247,81 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="epsilon.martasmaldone.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epsilon" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="epsilon.martasmaldone.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epsilon" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="martasmaldone" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="epsilon.martasmaldone.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epsilon" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="martasmaldone" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="epsilon.martasmaldone.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epsilon.martasmaldone.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epsilon" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="martasmaldone" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="epsilon.martasmaldone.com" type="462c0819:PsiDirectoryNode" />
+              <item name="_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epsilon.martasmaldone.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epsilon" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="martasmaldone" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="epsilon.martasmaldone.com" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epsilon.martasmaldone.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epsilon" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="martasmaldone" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="epsilon.martasmaldone.com" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="works" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epsilon.martasmaldone.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epsilon" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="martasmaldone" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="epsilon.martasmaldone.com" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="works" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epsilon.martasmaldone.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epsilon" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="martasmaldone" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="epsilon.martasmaldone.com" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epsilon.martasmaldone.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epsilon" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="martasmaldone" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="epsilon.martasmaldone.com" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epsilon.martasmaldone.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epsilon" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="martasmaldone" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="epsilon.martasmaldone.com" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="pages-root-folder" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,15 +329,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../blog.martasmaldone.org" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/_posts/works" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts/works/blog" />
       <recent name="$PROJECT_DIR$/pages" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/_layouts" />
-      <recent name="$PROJECT_DIR$/_posts/works" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/_posts/works" />
     </key>
   </component>
@@ -291,27 +380,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496059607952</updated>
-    </task>
-    <task id="LOCAL-00091" summary="Belgian Journal Gallery">
-      <created>1497199363608</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1497199363608</updated>
-    </task>
-    <task id="LOCAL-00092" summary="Etat transit gallery">
-      <created>1497199914790</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1497199914790</updated>
-    </task>
-    <task id="LOCAL-00093" summary="Etat transit gallery">
-      <created>1497201946877</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1497201946877</updated>
     </task>
     <task id="LOCAL-00094" summary="thumn mamoria si fa carne">
       <created>1497202683814</created>
@@ -635,11 +703,33 @@
       <option name="project" value="LOCAL" />
       <updated>1537794378576</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="modifiche testo">
+      <created>1551096806774</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1551096806774</updated>
+    </task>
+    <task id="LOCAL-00141" summary="new blog post">
+      <created>1551099939272</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1551099939272</updated>
+    </task>
+    <task id="LOCAL-00142" summary="modifiche testo">
+      <created>1551101001316</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1551101001316</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="39" width="3840" height="2121" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49003148" visible="true" weight="0.23135705" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -722,8 +812,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="projects insert in /works" />
-    <MESSAGE value="import WP" />
     <MESSAGE value="revert - import WP" />
     <MESSAGE value="redirect to WP" />
     <MESSAGE value="sidebar listing (categories, tags)" />
@@ -747,12 +835,11 @@
     <MESSAGE value="eliminazione 'new blog articles'" />
     <MESSAGE value="eliminazione 'marta del parto'" />
     <MESSAGE value="eliminazione transmedia dai projets" />
-    <option name="LAST_COMMIT_MESSAGE" value="eliminazione transmedia dai projets" />
+    <MESSAGE value="new blog post" />
+    <MESSAGE value="modifiche testo" />
+    <option name="LAST_COMMIT_MESSAGE" value="modifiche testo" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/BEJ_bistrot_2005.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/BEJ_artgallery_2008.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -825,24 +912,8 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/getting-started.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/works/blog/2016-05-18-Why_I_found_AaVv.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/BEJ_saintgilles_2006.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/blog/2017-07-16-Marta_del_parto.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
       <provider selected="true" editor-type-id="text-editor">
@@ -947,7 +1018,7 @@
     <entry file="file://$PROJECT_DIR$/_includes/_navigation.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2015-02-14-Time-Capsule-Josaphat.md">
+    <entry file="file://$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="58">
@@ -957,11 +1028,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md">
+    <entry file="file://$PROJECT_DIR$/_posts/works/2015-02-14-Time-Capsule-Josaphat.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="58">
-            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <first_editor relative-caret-position="812">
+            <caret line="28" column="79" selection-start-line="28" selection-start-column="79" selection-end-line="28" selection-end-column="79" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/blog/2016-05-18-Why_I_found_AaVv.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1392">
+            <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/blog/2017-07-16-Marta_del_parto.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/blog/2018-01-09-network_qui_marche.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="87">
+            <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
           </first_editor>
           <second_editor />
         </state>
