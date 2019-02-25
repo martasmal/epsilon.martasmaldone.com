@@ -65,18 +65,23 @@ The video is programmed with lightworks and Unity and uploaded via the holografi
 device software suite.
 
 <h6>Equipment</h6> 
+<ul>
 
-<ul>Holografic 3D high-led density, wifi controlled, device</ul> 
-<ul> Audio setup (wifi controlled, virtually invisible speakers, amplification)</ul> 
-<ul> Network infrastructure (wifi hotspot, internet access required, 4g modem where
-unavailable)</ul> 
+    Holografic 3D high-led density, wifi controlled, device
+    Audio setup (wifi controlled, virtually invisible speakers, amplification) 
+    Network infrastructure (wifi hotspot, internet access required, 4g modem where
+    unavailable) 
+    
+</ul> 
 
 <h6>Requirements</h6>
 
-<ul> Internet access (optional)</ul>
-<ul> Roof/wall drilling (optional for outdoor seamless speakers)</ul>
-<ul> Window proximity
+<ul>
+
+    Internet access (optional)
+    Roof/wall drilling (optional for outdoor seamless speakers)
+    Window proximity
+
+
 </ul> 
-
-
 
