@@ -48,7 +48,7 @@ trompe-oreille moderne.
 
 
 
-<h6>Description</h6>
+<h6> Description </h6>
 
 The installation is a network coordinated setup of 3D air visuals, in sync with audio
 stream. The setup is manageable remotely over network (wifi devices and hotspot).
