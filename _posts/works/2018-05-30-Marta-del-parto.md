@@ -20,7 +20,12 @@ image:
     caption_url: https://www.martasmaldone.com
 mediaplayer: true
 ---
-
+image:
+    title: martadelparto.jpeg
+    thumb: martadelparto.jpeg
+    homepage: martadelparto.jpeg
+    caption: Marta del Parto@2017
+    caption_url: http://www.martasmaldone.com//blog/Marta_del_parto/
 <!--
 # These video settings are totally optional. It's only purpose
 # is SEO, so that videos show up in Google hopefully with a
