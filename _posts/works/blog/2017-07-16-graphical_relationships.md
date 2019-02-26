@@ -1,5 +1,5 @@
 ---
-layout:     page
+layout:     page-fullwidth
 title:      Graphical relationships of a Transmedial Project
 author:     Marta Smaldone
 tags: 		transmedia tech art network
@@ -16,7 +16,7 @@ image:
 ---
 <!-- Start Writing Below in Markdown -->
 
-
+I 
 
 ---
 

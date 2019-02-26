@@ -44,6 +44,9 @@ widget5:
  video: '<div class="flex-video widescreen vimeo">
  <iframe src="https://player.vimeo.com/video/93275523" width="400" height="225" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>'
+
+ 
+
 # Use the call for action to show a button on the frontpage
 #
 # Use the call for action to show a button on the frontpage
