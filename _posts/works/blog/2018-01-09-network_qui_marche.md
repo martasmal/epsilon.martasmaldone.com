@@ -7,6 +7,13 @@ subtitle:  	project on going
 category:   blog
 header:     no
 thumb:      aavvio.jpeg
+
+
+image:
+   thumb: "04.jpg"
+   title: 04.jpg
+   caption: Time Capsule Happening@2015
+   caption_url: http://www.martasmaldone.com//works/Time-Capsule-Josaphat/
 ---
 <!-- Start Writing Below in Markdown -->
 
@@ -82,7 +89,5 @@ device software suite.
 
 
 
-image_url: draftnetwork.png
-    
 
 ---
