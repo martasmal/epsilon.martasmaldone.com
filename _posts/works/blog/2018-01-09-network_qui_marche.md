@@ -82,10 +82,7 @@ device software suite.
 
 
 
-image:
-    title: draftnetwork.png
-    thumb: draftnetwork.png
-   caption_url: https://www.martasmaldone.com
-
+image_url: draftnetwork.png
+    
 
 ---

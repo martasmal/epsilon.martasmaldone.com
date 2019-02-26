@@ -28,7 +28,7 @@ L’action restera liée à la mémoire du lieu; elle sera soit une rupture soit
 Le jour 14 février 2015 j'ai invité les habitants du quartier Josaphat, à enterrer une capsule temporelle. Elle restera enterrée pour 25 ans. Elle ne pourra pas être récupérée avant l’année 2040.
 La capsule gardera les attentes, les espoirs sur le futur de la friche Josaphat, un témoignage, un message, une photographie, un objet cher destiné aux générations futures.
 
-Merci à Télé Bruxelles pour le vidéo reportage.
+Merci à Télé Bruxelles pour le reportage vidéo .
 
 
 ## Other Projects
