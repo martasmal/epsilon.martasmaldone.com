@@ -1,7 +1,7 @@
 ---
 layout: video
-title:  "Il dottore della peste"
-teaser: "project on .."
+title:  "..."
+teaser: ""
 
 categories:
     - works
@@ -11,8 +11,7 @@ tags:
     - video
 
 iframe: <iframe src="https://player.vimeo.com/video/44689169?color=95cf19&title=0&byline=0&portrait=0" width="640" height="362" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-# Styling
-#
+
 header: no
 image:
     title: osaka_eki.jpg
@@ -41,10 +40,4 @@ mediaplayer: true
 
 more-->
 
-
-## About the video by MartaSmal
-
-> test
-
-Source: vimeo video
 
