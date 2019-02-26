@@ -1,7 +1,7 @@
 ---
 layout: video
 title:  "Areta in utero"
-teaser: "Areta in utero"
+teaser: 
 
 categories:
     - works

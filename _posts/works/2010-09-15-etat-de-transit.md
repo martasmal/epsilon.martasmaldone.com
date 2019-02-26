@@ -48,9 +48,6 @@ gallery:
 
 
 ---
-
-
----
 <!--
 <h3>Transit is a place where people, goods and knowledge of itinerary pass through.</h3>
 Morocco, by its geographical position, is a transit country for migrants from sub-Saharan Africa wishing to travel to Europe.
@@ -58,7 +55,6 @@ Following the tightening of border controls by the European Union, migrants are 
 With longer duration of transit, migrants have adapted their project and their daily to the Moroccan realities, keeping the hope of starting.-->
 
 
----
 {% include gallery %}
 
 <small>This Project has been funded by Ong C.N.C.D. based in Brussels. The exhibition has been shown at 'Casa del arte' in Casablanca in november 2008, at 'Maison de Amerique Latine' in Brussels in december 2008 and throughout the Belgium in 2009.</small>
