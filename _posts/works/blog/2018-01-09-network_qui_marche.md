@@ -13,7 +13,7 @@ image:
    thumb: "draftnetwork.png"
    title: draftnetwork.png
    caption: 
-   caption_url: http://www.martasmaldone.com//works/network_qui_marche/
+   caption_url: http://www.martasmaldone.com//works/blog/network_qui_marche/
 ---
 <!-- Start Writing Below in Markdown -->
 
