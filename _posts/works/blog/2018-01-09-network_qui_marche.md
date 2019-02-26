@@ -83,9 +83,9 @@ device software suite.
 
 
 image:
-   thumb: "draftnetwork.png"
-   title: draftnetwork.png
-   caption: 
-   caption_url: http://www.martasmaldone.com//works/blog/network_qui_marche/
-author: marta
-show_meta: false
+    title: draftnetwork.png
+    thumb: draftnetwork.png
+   caption_url: https://www.martasmaldone.com
+
+
+---
