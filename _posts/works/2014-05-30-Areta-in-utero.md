@@ -11,8 +11,7 @@ tags:
     - video
 
 iframe: <iframe src="https://player.vimeo.com/video/93275523" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-# Styling
-#
+
 header: no
 image:
     title: areta.jpg

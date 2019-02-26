@@ -11,8 +11,7 @@ tags:
     - video
 
 iframe: <iframe src="https://player.vimeo.com/video/273497960?color=26c68b&portrait=0" width="970" height="546" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-# Styling
-#
+
 header: no
 image:
     title: osaka_eki.jpg
@@ -41,9 +40,5 @@ mediaplayer: true
 more-->
 
 
-## About the video by MartaSmal
 
-> test
-
-Source: vimeo video
 
