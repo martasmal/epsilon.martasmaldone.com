@@ -51,6 +51,7 @@ gallery:
 
 
 ---
+<!--
 <h3>Transit is a place where people, goods and knowledge of itinerary pass through.</h3>
 Morocco, by its geographical position, is a transit country for migrants from sub-Saharan Africa wishing to travel to Europe.
 Following the tightening of border controls by the European Union, migrants are largely stuck to its doors.
