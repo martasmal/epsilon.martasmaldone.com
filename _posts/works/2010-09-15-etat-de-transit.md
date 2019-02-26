@@ -47,7 +47,6 @@ gallery:
       caption: Casablanca, Maarif parking taxis, april 2008
 
 ---
-<small>This Project has been funded by Ong C.N.C.D. based in Brussels. The exhibition has been shown at 'Casa del arte' in Casablanca in november 2008, at 'Maison de Amerique Latine' in Brussels in december 2008 and throughout the Belgium in 2009.</small>
 
 ---
 <!--
@@ -59,6 +58,7 @@ With longer duration of transit, migrants have adapted their project and their d
 
 {% include gallery %}
 
+<small>This Project has been funded by Ong C.N.C.D. based in Brussels. The exhibition has been shown at 'Casa del arte' in Casablanca in november 2008, at 'Maison de Amerique Latine' in Brussels in december 2008 and throughout the Belgium in 2009.</small>
 
 
 
