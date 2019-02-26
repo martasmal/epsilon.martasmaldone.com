@@ -10,7 +10,7 @@ thumb:      aavvio.jpeg
 ---
 <!-- Start Writing Below in Markdown -->
 
-
+<hr>
 
 <i>Network qui marche</i> est une installation holographique et sonore, un point d’entrée d’un projet
 transmédia et une collaboration en cours.
@@ -46,7 +46,7 @@ et intangible, comme ce pouvoir qui a facebook ou instagram dans l’exécution 
 commerciale, ou l’impact d’une opération de l’évanescent marché financier, un buzz, un
 trompe-oreille moderne.
 
-
+<hr>
 
 <strong>Description</strong>
 
@@ -70,10 +70,11 @@ device software suite.
 <li>Holografic 3D high-led density, wifi controlled, device</li>
 <li>Audio setup (wifi controlled, virtually invisible speakers, amplification)</li> 
 <li>Network infrastructure (wifi hotspot, internet access required, 4g modem where unavailable)</li> 
+  
+<p>    </p>    
     
- 
-
 <strong>Requirements</strong>
+
 
 <li>Internet access (optional)</li>
 <li>Roof/wall drilling (optional for outdoor seamless speakers)</li>
