@@ -88,6 +88,7 @@ device software suite.
 <li>Window proximity</li>
 
 
+![Alt text](http://www.martasmaldone.com/images/draftnetwork.png)
 
 
 ---
