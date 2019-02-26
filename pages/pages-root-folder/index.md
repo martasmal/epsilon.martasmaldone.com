@@ -44,19 +44,19 @@ widget5:
  video: '<div class="flex-video widescreen vimeo">
  <iframe src="https://player.vimeo.com/video/93275523" width="400" height="225" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>'
-widget4:
+widget7:
  title: "I buried a Time Capsule"
  url: '/works/Time-Capsule-Josaphat/'
  image: 04.jpg
  text: '<em>On 14 February 2015 I buried a time capsule under the Josaphat terrain, in Brussels. It will remain buried for 25 years. It can not be recovered until the year 2040.</em>'
-widget6:
+widget8:
  title: "Il dottore della peste"
  url: '/works/Il-dottore-della-peste/'
  text: ''
  video: '<div class="flex-video widescreen vimeo">
  <iframe src="https://player.vimeo.com/video/44689169" width="400" height="225" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
  </div>'
-widget5:
+widget9:
  title: "Areta in utero"
  url: '/works/Areta-in-utero/'
  text: ''
