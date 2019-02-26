@@ -10,10 +10,10 @@ thumb:      aavvio.jpeg
 
 
 image:
-   thumb: "04.jpg"
-   title: 04.jpg
-   caption: Time Capsule Happening@2015
-   caption_url: http://www.martasmaldone.com//works/Time-Capsule-Josaphat/
+   thumb: "draftnetwork.png"
+   title: draftnetwork.png
+   caption: 
+   caption_url: http://www.martasmaldone.com//works/network_qui_marche/
 ---
 <!-- Start Writing Below in Markdown -->
 
