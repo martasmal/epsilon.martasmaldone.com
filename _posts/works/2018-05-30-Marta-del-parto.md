@@ -19,7 +19,6 @@ mediaplayer: true
 image:
     title: martadelparto.jpeg
     thumb: martadelparto.jpeg
-    homepage: martadelparto.jpeg
     caption: Marta del Parto@2017
     caption_url: http://www.martasmaldone.com//blog/Marta_del_parto/
     
