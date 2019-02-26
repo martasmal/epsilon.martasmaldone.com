@@ -27,7 +27,7 @@ place une plateforme pour un regard critique sur les structures de pouvoir.
 Mais jusqu'où l'influence de l'art s'étend-elle? L'art, a-t-il, après tout, un impact sur le réseau
 sociale?
 
-Le protagoniste ​ ‘Network qui marche’, une représentation 3D sous forme d’hologramme,
+Le protagoniste ​est une représentation 3D sous forme d’hologramme. Il
 ressemble à une création ​ publicitaire devant une vitrine commerciale. Il ​ se déplace et interagit
 dans son contexte. Il a en tête un réseau qui le contrôle, dictant son comportement.
 L'hologramme flotte devant le client potentiel. Des images défilent dans sa tête-réseau: panneaux
