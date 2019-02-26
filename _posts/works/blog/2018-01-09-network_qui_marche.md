@@ -80,3 +80,12 @@ device software suite.
 <li>Roof/wall drilling (optional for outdoor seamless speakers)</li>
 <li>Window proximity</li>
 
+
+
+image:
+   thumb: "draftnetwork.png"
+   title: draftnetwork.png
+   caption: 
+   caption_url: http://www.martasmaldone.com//works/blog/network_qui_marche/
+author: marta
+show_meta: false
