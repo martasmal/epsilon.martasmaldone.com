@@ -41,7 +41,7 @@ module Jekyll
 	class JsonFileGenerator < Generator
 
 
-		safe true
+		safe true™™™
 
 
 		def initialize(site)
