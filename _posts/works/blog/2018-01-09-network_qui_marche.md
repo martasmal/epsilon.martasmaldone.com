@@ -12,7 +12,7 @@ thumb:      aavvio.jpeg
 
 
 
-‘Network qui marche’ est une installation holographique et sonore, un point d’entrée d’un projet
+<i>Network qui marche</i> est une installation holographique et sonore, un point d’entrée d’un projet
 transmédia et une collaboration en cours.
 Multiples réflexions naissent à partir du rôle de l’art face à un pouvoir devenu acéphale, invisible.
 L’intégration de l’art contemporain à des logiques de marketing prend des proportions inédites.
@@ -48,7 +48,7 @@ trompe-oreille moderne.
 
 
 
-<h6> Description </h6>
+<strong>Description</strong>
 
 The installation is a network coordinated setup of 3D air visuals, in sync with audio
 stream. The setup is manageable remotely over network (wifi devices and hotspot).
@@ -64,7 +64,7 @@ capability will be not implemented.
 The video is programmed with lightworks and Unity and uploaded via the holografic
 device software suite.
 
-<h6>Equipment</h6> 
+<strong>Equipment</strong>
 <ul>
 
     Holografic 3D high-led density, wifi controlled, device
@@ -74,7 +74,7 @@ device software suite.
     
 </ul> 
 
-<h6>Requirements</h6>
+<strong>Requirements</strong>
 
 <li>
    Internet access (optional)

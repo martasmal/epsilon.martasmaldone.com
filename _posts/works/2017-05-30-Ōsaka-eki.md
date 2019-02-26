@@ -41,9 +41,5 @@ mediaplayer: true
 more-->
 
 
-## About the video by MartaSmal
 
-> test
-
-Source: vimeo video
 
