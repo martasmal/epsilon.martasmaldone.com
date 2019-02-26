@@ -11,7 +11,7 @@ header: no
 image:
    thumb: "ETAT_TR_00001-thumb.jpg"
 
-
+---
 gallery:
     - image_url: ETAT_TR_00001.jpg
       caption: Prince, Casablanca, august 2008
