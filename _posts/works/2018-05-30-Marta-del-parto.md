@@ -13,11 +13,6 @@ tags:
 iframe: <iframe src="https://player.vimeo.com/video/273497960?color=26c68b&portrait=0" width="970" height="546" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 header: no
-image:
-    title: osaka_eki.jpg
-    thumb: osaka_eki.jpg
-    caption: marta del parto
-    caption_url: https://www.martasmaldone.com
 mediaplayer: true
 
 
@@ -27,6 +22,8 @@ image:
     homepage: martadelparto.jpeg
     caption: Marta del Parto@2017
     caption_url: http://www.martasmaldone.com//blog/Marta_del_parto/
+    
+    
 ---
 
 <!--
