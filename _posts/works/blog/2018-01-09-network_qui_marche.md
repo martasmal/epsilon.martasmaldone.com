@@ -76,12 +76,10 @@ device software suite.
 
 <h6>Requirements</h6>
 
-<ul>
+<li>
+   Internet access (optional)
+   Roof/wall drilling (optional for outdoor seamless speakers)
+   Window proximity
 
-    Internet access (optional)
-    Roof/wall drilling (optional for outdoor seamless speakers)
-    Window proximity
-
-
-</ul> 
+</li>
 
