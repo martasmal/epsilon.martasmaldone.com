@@ -8,12 +8,6 @@ category:   blog
 header:     no
 thumb:      aavvio.jpeg
 
-
-image:
-   thumb: "draftnetwork.png"
-   title: draftnetwork.png
-   caption: 
-   caption_url: http://www.martasmaldone.com//works/blog/network_qui_marche/
 ---
 <!-- Start Writing Below in Markdown -->
 
@@ -87,8 +81,13 @@ device software suite.
 <li>Roof/wall drilling (optional for outdoor seamless speakers)</li>
 <li>Window proximity</li>
 
+<p>    </p>  
+<p>    </p>  
+<p>    </p>  
 
-![Alt text](http://www.martasmaldone.com/images/draftnetwork.png)
+
+
+![Alt text](http://www.martasmaldone.com/images/draftnetwork.png)"draft I"
 
 
 ---
