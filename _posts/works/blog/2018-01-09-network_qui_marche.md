@@ -87,7 +87,7 @@ device software suite.
 
 
 
-![Alt text](http://www.martasmaldone.com/images/draftnetwork.png)"draft I"
+![Alt text](http://www.martasmaldone.com/images/draftnetwork.png) "draft I network qui marche"
 
 
 ---
