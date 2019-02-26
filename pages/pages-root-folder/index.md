@@ -43,6 +43,16 @@ widget5:
  text: ''
  video: '<div class="flex-video widescreen vimeo">
  <iframe src="https://player.vimeo.com/video/93275523" width="400" height="225" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+widget7:
+ title: "I buried a Time Capsule"
+ url: '/works/blog/network_qui_marche/'
+ image: draftnetwork.png
+ text: '<em>On 14 February 2015 I buried a time capsule under the Josaphat terrain, in Brussels. It will remain buried for 25 years. It can not be recovered until the year 2040.</em>'
+
+ 
+ 
+ 
+ 
 </div>'
 # Use the call for action to show a button on the frontpage
 #
