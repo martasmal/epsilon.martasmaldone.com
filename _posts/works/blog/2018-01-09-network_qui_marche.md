@@ -1,5 +1,5 @@
 ---
-layout:     page
+layout:     page-fullwidth
 title:      Network qui marche
 author:     Marta Smaldone
 tags: 		transmedia tech art network
