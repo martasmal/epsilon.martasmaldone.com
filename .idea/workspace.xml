@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3064bf95-ee83-40d8-8fab-85efeb3416d0" name="Default" comment="modifiche menu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/works/2017-05-30-Ōsaka-eki.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/works/2017-05-30-Ōsaka-eki.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/works/2018-05-30-Marta-del-parto.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/works/2018-05-30-Marta-del-parto.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/works/blog/2017-07-16-Marta_del_parto.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/works/blog/2017-07-16-Marta_del_parto.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,15 +21,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4901">
-              <caret line="169" column="83" selection-start-line="169" selection-start-column="83" selection-end-line="169" selection-end-column="83" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="609">
@@ -37,12 +29,24 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/pages-root-folder/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="342">
+                <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/works/2017-05-30-Ōsaka-eki.md">
+        <entry file="file://$PROJECT_DIR$/_posts/works/blog/2017-07-16-Marta_del_parto.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="551">
-                <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+              <first_editor relative-caret-position="290">
+                <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -50,71 +54,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/works/2014-05-30-Areta-in-utero.md">
+        <entry file="file://$PROJECT_DIR$/_posts/works/2018-05-30-Marta-del-parto.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="768">
-                <caret line="43" selection-start-line="43" selection-end-line="43" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/works/2015-02-14-Time-Capsule-Josaphat.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="565">
-                <caret line="28" column="79" selection-start-line="28" selection-start-column="79" selection-end-line="28" selection-end-column="79" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="246">
-                <caret line="43" selection-start-line="43" selection-end-line="43" selection-end-column="11" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/works/blog/2018-01-09-network_qui_marche.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="768">
-                <caret line="73" column="11" selection-start-line="73" selection-start-column="11" selection-end-line="73" selection-end-column="11" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/works.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="319">
-                <caret line="11" column="6" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/works/blog/2016-05-18-Why_I_found_AaVv.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="406">
-                <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="2" />
+              <first_editor relative-caret-position="130">
+                <caret line="28" column="68" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
               </first_editor>
               <second_editor />
             </state>
@@ -125,8 +69,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>o</find>
-      <find>os</find>
       <find>osa</find>
       <find>osaka</find>
       <find>j</find>
@@ -155,6 +97,8 @@
       <find>works</find>
       <find>japan project</find>
       <find>Blog Archive</find>
+      <find>the empire</find>
+      <find>blog archive</find>
     </findStrings>
     <replaceStrings>
       <replace>works</replace>
@@ -180,9 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/wordpress/_posts/2005-08-10-villamare.md" />
-        <option value="$PROJECT_DIR$/_posts/wordpress/_posts/2005-09-02-republika-hrvatska.md" />
-        <option value="$PROJECT_DIR$/_posts/wordpress/_posts/2006-04-11-3837.md" />
         <option value="$PROJECT_DIR$/_posts/facilities/blog.martasmaldone.com.md" />
         <option value="$PROJECT_DIR$/_posts/_wordpress/2005-08-10-villamare.md" />
         <option value="$PROJECT_DIR$/blog/index.html" />
@@ -215,22 +156,25 @@
         <option value="$PROJECT_DIR$/_site/headers/index.html" />
         <option value="$PROJECT_DIR$/_site/feed.xml" />
         <option value="$PROJECT_DIR$/pages/redirected_page.md" />
-        <option value="$PROJECT_DIR$/_posts/works/2010-09-15-etat-de-transit.md" />
-        <option value="$PROJECT_DIR$/_posts/works/blog/2017-07-16-Marta_del_parto.md" />
         <option value="$PROJECT_DIR$/pages/pages-root-folder/index.md" />
-        <option value="$PROJECT_DIR$/_data/language.yml" />
         <option value="$PROJECT_DIR$/_site/blog/archive/index.html" />
         <option value="$PROJECT_DIR$/_layouts/frontpage.html" />
         <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/_posts/works/2015-07-10-la-memoria-si-fa-carne.md" />
-        <option value="$PROJECT_DIR$/_posts/works/2015-02-14-Time-Capsule-Josaphat.md" />
         <option value="$PROJECT_DIR$/_posts/works/blog/2016-05-18-Why_I_found_AaVv.md" />
         <option value="$PROJECT_DIR$/_posts/works/blog/network_qui_marche.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_data/navigation.yml" />
-        <option value="$PROJECT_DIR$/_posts/works/2014-05-30-Areta-in-utero.md" />
+        <option value="$PROJECT_DIR$/_data/language.yml" />
+        <option value="$PROJECT_DIR$/blog/archive.html" />
         <option value="$PROJECT_DIR$/_posts/works/blog/2018-01-09-network_qui_marche.md" />
+        <option value="$PROJECT_DIR$/_posts/works/2015-02-14-Time-Capsule-Josaphat.md" />
         <option value="$PROJECT_DIR$/_posts/works/2017-05-30-Ōsaka-eki.md" />
+        <option value="$PROJECT_DIR$/_posts/works/2008-05-30-Il-dottore-della-peste.md" />
+        <option value="$PROJECT_DIR$/_posts/works/2014-05-30-Areta-in-utero.md" />
+        <option value="$PROJECT_DIR$/_posts/works/2010-09-15-etat-de-transit.md" />
+        <option value="$PROJECT_DIR$/_posts/works/blog/2017-07-16-Marta_del_parto.md" />
+        <option value="$PROJECT_DIR$/_posts/works/2018-05-30-Marta-del-parto.md" />
       </list>
     </option>
   </component>
@@ -263,13 +207,6 @@
               <item name="epsilon" type="9c53a853:ProjectViewModuleGroupNode" />
               <item name="martasmaldone" type="9c53a853:ProjectViewModuleGroupNode" />
               <item name="epsilon.martasmaldone.com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="epsilon.martasmaldone.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="epsilon" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="martasmaldone" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="epsilon.martasmaldone.com" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="epsilon.martasmaldone.com" type="b2602c69:ProjectViewProjectNode" />
@@ -386,90 +323,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496059607952</updated>
-    </task>
-    <task id="LOCAL-00108" summary="insert text homepage">
-      <created>1497715963218</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1497715963219</updated>
-    </task>
-    <task id="LOCAL-00109" summary="insert text homepage">
-      <created>1497716046637</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1497716046637</updated>
-    </task>
-    <task id="LOCAL-00110" summary="insert text homepage">
-      <created>1497716210332</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1497716210332</updated>
-    </task>
-    <task id="LOCAL-00111" summary="insert text homepage">
-      <created>1497716264804</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1497716264804</updated>
-    </task>
-    <task id="LOCAL-00112" summary="insert text homepage">
-      <created>1497716668515</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1497716668515</updated>
-    </task>
-    <task id="LOCAL-00113" summary="insert text homepage">
-      <created>1497716718615</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1497716718615</updated>
-    </task>
-    <task id="LOCAL-00114" summary="insert text homepage">
-      <created>1497716825092</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1497716825092</updated>
-    </task>
-    <task id="LOCAL-00115" summary="change css">
-      <created>1497770950708</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1497770950709</updated>
-    </task>
-    <task id="LOCAL-00116" summary="change css">
-      <created>1497771549595</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1497771549595</updated>
-    </task>
-    <task id="LOCAL-00117" summary="change css">
-      <created>1498427682558</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1498427682558</updated>
-    </task>
-    <task id="LOCAL-00118" summary="change css">
-      <created>1498427920091</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1498427920091</updated>
-    </task>
-    <task id="LOCAL-00119" summary="change css">
-      <created>1498428519060</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1498428519060</updated>
     </task>
     <task id="LOCAL-00120" summary="change css homepage link">
       <created>1498430968900</created>
@@ -730,7 +583,91 @@
       <option name="project" value="LOCAL" />
       <updated>1551173884016</updated>
     </task>
-    <option name="localTasksCounter" value="157" />
+    <task id="LOCAL-00157" summary="modifiche menu">
+      <created>1551174279624</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1551174279624</updated>
+    </task>
+    <task id="LOCAL-00158" summary="modifiche menu">
+      <created>1551174666428</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1551174666428</updated>
+    </task>
+    <task id="LOCAL-00159" summary="modifiche menu">
+      <created>1551174972229</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1551174972229</updated>
+    </task>
+    <task id="LOCAL-00160" summary="modifiche">
+      <created>1551175119642</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1551175119642</updated>
+    </task>
+    <task id="LOCAL-00161" summary="modifiche varie">
+      <created>1551175282895</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1551175282895</updated>
+    </task>
+    <task id="LOCAL-00162" summary="varie">
+      <created>1551175677106</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1551175677106</updated>
+    </task>
+    <task id="LOCAL-00163" summary="modifiche">
+      <created>1551176218932</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1551176218932</updated>
+    </task>
+    <task id="LOCAL-00164" summary="modifiche">
+      <created>1551176618684</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1551176618684</updated>
+    </task>
+    <task id="LOCAL-00165" summary="modifiche varie">
+      <created>1551176726568</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1551176726568</updated>
+    </task>
+    <task id="LOCAL-00166" summary="modifiche menu">
+      <created>1551177471699</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1551177471699</updated>
+    </task>
+    <task id="LOCAL-00167" summary="varie">
+      <created>1551179486643</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1551179486643</updated>
+    </task>
+    <task id="LOCAL-00168" summary="modifiche menu">
+      <created>1551179715672</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1551179715672</updated>
+    </task>
+    <option name="localTasksCounter" value="169" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -818,7 +755,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="thumn mamoria si fa carne" />
     <MESSAGE value="thumn time capsule" />
     <MESSAGE value="changes text" />
     <MESSAGE value="changes text e varie" />
@@ -839,9 +775,10 @@
     <MESSAGE value="modifiche testo" />
     <MESSAGE value="favicon" />
     <MESSAGE value="modifiche testi" />
-    <MESSAGE value="modifiche" />
     <MESSAGE value="modifiche post" />
+    <MESSAGE value="modifiche" />
     <MESSAGE value="modifiche varie" />
+    <MESSAGE value="varie" />
     <MESSAGE value="modifiche menu" />
     <option name="LAST_COMMIT_MESSAGE" value="modifiche menu" />
   </component>
@@ -873,23 +810,6 @@
     <entry file="file://$PROJECT_DIR$/pages/getting-started.md" />
     <entry file="file://$PROJECT_DIR$/images/BEJ_saintgilles_2006.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_data/language.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/pages-root-folder/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="261">
-            <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/_sidebar.html">
       <provider selected="true" editor-type-id="text-editor" />
@@ -927,31 +847,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2018-05-30-Marta-del-parto.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/works/2012-09-15-belgian-journal.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2010-09-15-etat-de-transit.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2008-05-30-Il-dottore-della-peste.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -961,14 +857,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/_navigation.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/blog/2017-07-16-Marta_del_parto.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/_favicon.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1044,21 +932,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2014-05-30-Areta-in-utero.md">
+    <entry file="file://$PROJECT_DIR$/_posts/works/blog/2018-01-09-network_qui_marche.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="768">
-            <caret line="43" selection-start-line="43" selection-end-line="43" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/2015-02-14-Time-Capsule-Josaphat.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="565">
-            <caret line="28" column="79" selection-start-line="28" selection-start-column="79" selection-end-line="28" selection-end-column="79" />
+          <first_editor relative-caret-position="449">
+            <caret line="29" column="70" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
           </first_editor>
           <second_editor />
         </state>
@@ -1074,11 +952,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/works/blog/2018-01-09-network_qui_marche.md">
+    <entry file="file://$PROJECT_DIR$/_data/language.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/2015-02-14-Time-Capsule-Josaphat.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="768">
-            <caret line="73" column="11" selection-start-line="73" selection-start-column="11" selection-end-line="73" selection-end-column="11" />
+          <first_editor relative-caret-position="957">
+            <caret line="33" column="2" lean-forward="true" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
@@ -1088,7 +973,67 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="551">
-            <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+            <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/pages-root-folder/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="342">
+            <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/2008-05-30-Il-dottore-della-peste.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="58">
+            <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/2014-05-30-Areta-in-utero.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="58">
+            <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/2010-09-15-etat-de-transit.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="145">
+            <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/2018-05-30-Marta-del-parto.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="130">
+            <caret line="28" column="68" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/works/blog/2017-07-16-Marta_del_parto.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="290">
+            <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
