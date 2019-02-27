@@ -62,7 +62,7 @@ Vivre ailleurs m’a appris qu’on vive ailleurs non pas pour découvrir les au
 
 En fouillant dans les mémoires des italiens de Belgique il y a une histoire parallèle. Il y a le fascisme et l’anti-fascisme, la participation à la Résistance belge, le sang de la classe ouvrière et il y a un pays qui à moment donné proclame «désormais vous êtes des nôtres!». L’héritage de vieux italiens appartient à la Belgique et à l’Italie, pas seulement pour gratitude mais parce qu’elle fait partie de l’histoire de deux pays, une histoire qui tend encore à absorber des cultures différentes. Le lien avec les origines est visiblement présent, comme c’est visible un sentiment d’appartenance, achevée en se reconnaissant dans les lieux du pays d’accueil. La migration est strictement liée à l’identité culturelle de la même manière que l’hérédité culturelle au développement d’un pays. Vivre dans un pays ou dans une région, partager droits, devoirs et motivations, fait de son résident un citoyen. Les vies des italiens de Belgique me montrent que la liberté d’exister d’un être humain ne dépend pas de son origine, mais d’un Etat, d’une ville, du quartier où il vit.
 
-![Alt text](http://www.martasmaldone.com/images/Capture01.png) 
+
 
 <hr>
 
@@ -88,7 +88,6 @@ J’aime les paroles de Hermes Maria Ronchi pour approcher le concept d’identi
 
 Les migrations font partie de notre monde globalisé qui est avant tout un monde interconnecté. J’ai pu constater lors de mon projet au Maroc sur le transit des migrants subsahariennes, qu’il faut un réseau pour migrer. Un réseau fait de relations culturelles, familiales, économiques ou linguistiques transnationales.
 Les nouvelles technologies permettent d’interagir tous les temps avec des gens et des situations, indépendantement de leur emplacement géographique. Cette situation peut augmenter la diversité culturelle, comme une réponse à la nécessité croissante de sortir du provincialisme et construire une idée d’identité toujours plus riche et nouvelle.
-
 
 
 
