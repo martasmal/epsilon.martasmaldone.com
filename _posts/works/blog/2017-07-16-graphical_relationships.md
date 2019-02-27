@@ -9,8 +9,8 @@ header:     no
 
 
 image:
-    title: Capture d’écran 02.png
-    thumb: Capture d’écran 02.png
+    title: Capture d’écran 03.png
+    thumb: Capture d’écran 03.png
     caption: 
     caption_url: https://www.martasmaldone.com
 ---
