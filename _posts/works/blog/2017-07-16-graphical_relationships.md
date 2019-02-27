@@ -9,8 +9,8 @@ header:     no
 
 
 image:
-    title: IMG_2019022.jpg
-    thumb: IMG_2019022.jpg
+    title: Capture d’écran 02.png
+    thumb: Capture d’écran 02.png
     caption: 
     caption_url: https://www.martasmaldone.com
 ---
