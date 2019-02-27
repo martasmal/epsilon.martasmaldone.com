@@ -18,6 +18,14 @@ image:
    caption_url: http://www.martasmaldone.com//works/la-memoria-si-fa-carne/
 author: marta
 show_meta: false
+
+
+image:
+   thumb: "arnolfini.jpg"
+   title: arnolfini.jpg
+   caption: Coniugi Arnolfini@2013
+   caption_url: http://www.martasmaldone.com//works/la-memoria-si-fa-carne/
+
 ---
 
 
