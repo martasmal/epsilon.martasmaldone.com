@@ -9,14 +9,14 @@ header:     no
 
 
 image:
-    title: Capture d’écran 03.png
-    thumb: Capture d’écran 03.png
+    title: screenshot.png
+    thumb: 
     caption: 
     caption_url: https://www.martasmaldone.com
 ---
 <!-- Start Writing Below in Markdown -->
 
-![Alt text](http://www.martasmaldone.com/images/screenshot.png)
+![Alt text](http://www.martasmaldone.com/images/Capture d’écran 03.png)
 
 ![Alt text](http://www.martasmaldone.com/images/IMG_2019022.jpg)
 
