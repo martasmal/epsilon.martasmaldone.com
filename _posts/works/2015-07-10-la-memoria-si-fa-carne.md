@@ -62,7 +62,7 @@ Vivre ailleurs m’a appris qu’on vive ailleurs non pas pour découvrir les au
 
 En fouillant dans les mémoires des italiens de Belgique il y a une histoire parallèle. Il y a le fascisme et l’anti-fascisme, la participation à la Résistance belge, le sang de la classe ouvrière et il y a un pays qui à moment donné proclame «désormais vous êtes des nôtres!». L’héritage de vieux italiens appartient à la Belgique et à l’Italie, pas seulement pour gratitude mais parce qu’elle fait partie de l’histoire de deux pays, une histoire qui tend encore à absorber des cultures différentes. Le lien avec les origines est visiblement présent, comme c’est visible un sentiment d’appartenance, achevée en se reconnaissant dans les lieux du pays d’accueil. La migration est strictement liée à l’identité culturelle de la même manière que l’hérédité culturelle au développement d’un pays. Vivre dans un pays ou dans une région, partager droits, devoirs et motivations, fait de son résident un citoyen. Les vies des italiens de Belgique me montrent que la liberté d’exister d’un être humain ne dépend pas de son origine, mais d’un Etat, d’une ville, du quartier où il vit.
 
-![Alt text](/home/marta/Repos/epsilon.martasmaldone.com/images/Capture 01.png)
+![Alt text](http://www.martasmaldone.com/images/Capture01.png) 
 
 <hr>
 
