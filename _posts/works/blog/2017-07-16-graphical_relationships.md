@@ -16,7 +16,7 @@ image:
 ---
 <!-- Start Writing Below in Markdown -->
 
-![Alt text](http://www.martasmaldone.com/images/Capture03.png)
+![Alt text](http://www.martasmaldone.com/images/Capture4.png)
 
 ![Alt text](http://www.martasmaldone.com/images/IMG_2019022.jpg)
 
